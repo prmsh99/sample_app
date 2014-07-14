@@ -1,0 +1,30 @@
+kcminputrc Mouse cursorTheme 'Oxygen_White'
+!/home/techrains/.kde/share/config/kcminputrc
+/usr/share/mintkde-default-settings/kde4-profile/default/share/config/kcminputrc
+!/usr/share/config/kcminputrc
+*
+kcminputrc Mouse cursorSize ''
+!/home/techrains/.kde/share/config/kcminputrc
+/usr/share/mintkde-default-settings/kde4-profile/default/share/config/kcminputrc
+!/usr/share/config/kcminputrc
+*
+ksplashrc KSplash Theme Default
+!/home/techrains/.kde/share/config/ksplashrc
+/usr/share/mintkde-default-settings/kde4-profile/default/share/config/ksplashrc
+!/usr/share/config/ksplashrc
+*
+ksplashrc KSplash Engine KSplashX
+!/home/techrains/.kde/share/config/ksplashrc
+/usr/share/mintkde-default-settings/kde4-profile/default/share/config/ksplashrc
+!/usr/share/config/ksplashrc
+*
+kcmfonts General forceFontDPI 0
+!/home/techrains/.kde/share/config/kcmfonts
+!/usr/share/mintkde-default-settings/kde4-profile/default/share/config/kcmfonts
+!/usr/share/config/kcmfonts
+*
+kdeglobals Locale Language '' # trigger requesting languages from KLocale
+/home/techrains/.kde/share/config/kdeglobals
+/usr/share/mintkde-default-settings/kde4-profile/default/share/config/kdeglobals
+!/usr/share/config/kdeglobals
+*

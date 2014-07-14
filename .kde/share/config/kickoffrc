@@ -1,0 +1,11 @@
+[Favorites]
+FavoriteURLs=/usr/share/applications/kde4/amarok.desktop,/usr/share/applications/firefox.desktop,/usr/share/applications/kde4/konsole.desktop,/usr/share/applications/kde4/konversation.desktop,/usr/share/applications/kde4/ktp-contactlist.desktop,/usr/share/applications/mintInstall_kde.desktop,/usr/share/applications/kde4/systemsettings.desktop
+
+[KRunner]
+loadAll=false
+
+[KRunner][PlasmaRunnerManager]
+pluginWhiteList=places,shell,services,bookmarks,recentdocuments,locations
+
+[RecentlyUsed]
+Applications=kde4-kvkbd.desktop,kcmnotify.desktop,kde4-knotes.desktop,firefox.desktop,kde4-konsole.desktop

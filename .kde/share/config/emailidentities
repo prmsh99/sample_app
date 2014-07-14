@@ -1,0 +1,15 @@
+[$Version]
+update_info=kmail.upd:3.3-move-identities-to-own-file,kmail.upd:3.3-aegypten-emailidentities-split-sign-encr-keys
+
+[General]
+Default Identity=1484441903
+
+[Identity #0]
+Dictionary=English (United States of America)
+Disable Fcc=false
+Identity=techrains
+Image Location=
+Inline Signature=
+Name=techrains
+Signature Enabled=false
+uoid=1484441903

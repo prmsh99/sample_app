@@ -1,0 +1,11 @@
+[General]
+ResourceKeys=PpSiod1NFw
+Standard=PpSiod1NFw
+
+[Resource_PpSiod1NFw]
+NotesURL[$e]=file://$HOME/.kde/share/apps/knotes/notes.ics
+ResourceIdentifier=PpSiod1NFw
+ResourceIsActive=true
+ResourceIsReadOnly=false
+ResourceName=Notes
+ResourceType=file

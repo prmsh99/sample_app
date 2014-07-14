@@ -1,0 +1,1030 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/techrains/Projects/check.rb" added="2014-06-23T06:39:08Z" modified="2014-06-23T06:42:24Z" visited="2014-06-23T06:39:09Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ruby"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2014-06-23T06:42:24Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/Downloads/thunderbird-6.0.tar.bz2" added="2014-06-23T06:46:36Z" modified="2014-06-23T06:46:36Z" visited="2014-06-23T06:46:37Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-bzip-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2014-06-23T06:46:36Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/Downloads/additional_chat_protocols_for_thunderbird-2.10.4-tb-linux.xpi" added="2014-06-23T06:59:22Z" modified="2014-06-23T07:02:29Z" visited="2014-06-23T06:59:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xpinstall"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2014-06-23T06:59:22Z" count="1"/>
+          <bookmark:application name="Thunderbird" exec="&apos;thunderbird-bin %u&apos;" modified="2014-06-23T07:02:29Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/Downloads/thunderbird-24.6.0.tar.bz2" added="2014-06-23T07:11:38Z" modified="2014-06-23T07:15:22Z" visited="2014-06-23T07:11:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-bzip-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2014-06-23T07:15:22Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/Downloads/The%20Rails%203%20Way,%202nd%20Edition.pdf" added="2014-06-23T07:27:02Z" modified="2014-06-23T07:27:02Z" visited="2014-06-23T07:27:03Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2014-06-23T07:27:02Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/one/app/models/first.rb" added="2014-06-23T09:24:11Z" modified="2014-06-23T09:24:11Z" visited="2014-06-23T09:24:11Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ruby"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2014-06-23T09:24:11Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/one" added="2014-06-23T09:24:27Z" modified="2014-06-23T09:24:27Z" visited="2014-06-23T09:24:28Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2014-06-23T09:24:27Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/sampple" added="2014-06-23T11:12:58Z" modified="2014-06-23T11:12:58Z" visited="2014-06-23T11:12:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2014-06-23T11:12:58Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/sampleapp" added="2014-06-23T11:22:07Z" modified="2014-06-23T11:22:07Z" visited="2014-06-23T11:22:08Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2014-06-23T11:22:07Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/sampleapp/app/views/layouts/header.html.erb" added="2014-06-23T12:10:51Z" modified="2014-06-23T12:10:51Z" visited="2014-06-23T12:10:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2014-06-23T12:10:51Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/sampleapp/app/views/layouts/_shim.html.erb" added="2014-06-23T12:11:58Z" modified="2014-06-23T12:11:58Z" visited="2014-06-23T12:11:58Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2014-06-23T12:11:58Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/sampleapp/app/views/layouts/_footer.html.erb" added="2014-06-23T12:12:25Z" modified="2014-06-23T12:12:25Z" visited="2014-06-23T12:12:25Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2014-06-23T12:12:25Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/sampleapp/app/views/static_pages/contact.html.erb" added="2014-06-23T12:35:52Z" modified="2014-06-23T12:56:18Z" visited="2014-06-23T12:35:52Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2014-06-23T12:56:18Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/sampleapp/app/views/contact.html.erb" added="2014-06-23T12:54:38Z" modified="2014-06-23T12:54:38Z" visited="2014-06-23T12:54:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2014-06-23T12:54:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/sampleapp/app/views/static_pages/about.html.erb" added="2014-06-24T05:40:02Z" modified="2014-06-24T05:40:02Z" visited="2014-06-24T05:40:03Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2014-06-24T05:40:02Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/sampleapp/app/views/static_pages/news.html.erb" added="2014-06-24T05:40:23Z" modified="2014-06-24T05:40:23Z" visited="2014-06-24T05:40:23Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2014-06-24T05:40:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/sampleapp/app/views/users/show.html.erb" added="2014-06-24T09:26:39Z" modified="2014-06-24T09:26:39Z" visited="2014-06-24T09:26:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2014-06-24T09:26:39Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/sampleapp/test/factories.rb" added="2014-06-24T10:28:39Z" modified="2014-06-24T10:28:39Z" visited="2014-06-24T10:28:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ruby"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2014-06-24T10:28:39Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/sampleapp/app/views/shared/_error_messages.html.erb" added="2014-06-24T12:16:20Z" modified="2014-06-24T12:16:20Z" visited="2014-06-24T12:16:20Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2014-06-24T12:16:20Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/sampleapp/app/views/sessions/new.html.erb" added="2014-06-25T05:39:52Z" modified="2014-06-25T05:39:52Z" visited="2014-06-25T05:39:52Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2014-06-25T05:39:52Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/sampleapp/app/views/users/edit.html.erb" added="2014-06-25T07:16:59Z" modified="2014-06-25T07:16:59Z" visited="2014-06-25T07:16:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2014-06-25T07:16:59Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/sampleapp/test/support/utilities.rb" added="2014-06-25T07:24:17Z" modified="2014-06-25T07:24:17Z" visited="2014-06-25T07:24:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ruby"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2014-06-25T07:24:17Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/sampleapp/app/views/users/index.html.erb" added="2014-06-25T08:37:53Z" modified="2014-06-25T08:37:53Z" visited="2014-06-25T08:37:53Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2014-06-25T08:37:53Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/sample_app/Gemfile" added="2014-06-25T09:50:58Z" modified="2014-06-25T09:51:12Z" visited="2014-06-25T09:50:58Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Text Editor" exec="&apos;gedit %u&apos;" modified="2014-06-25T09:51:12Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/sampleapp/Gemfile" added="2014-06-25T09:54:17Z" modified="2014-06-25T09:54:23Z" visited="2014-06-25T09:54:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Text Editor" exec="&apos;gedit %u&apos;" modified="2014-06-25T09:54:23Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/sampleapp/spec/requests/authentication_pages_spec.rb" added="2014-06-25T09:58:38Z" modified="2014-06-25T09:58:38Z" visited="2014-06-25T09:58:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ruby"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2014-06-25T09:58:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/sampleapp/spec/requests/static_pages_spec.rb" added="2014-06-25T09:59:39Z" modified="2014-06-25T09:59:39Z" visited="2014-06-25T09:59:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ruby"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2014-06-25T09:59:39Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/sampleapp/spec/requests/user_pages_spec.rb" added="2014-06-25T10:00:24Z" modified="2014-06-25T10:00:24Z" visited="2014-06-25T10:00:24Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ruby"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2014-06-25T10:00:24Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/sampleapp/spec/user_spec.rb" added="2014-06-25T10:02:27Z" modified="2014-06-25T10:02:27Z" visited="2014-06-25T10:02:27Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ruby"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2014-06-25T10:02:27Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/sampleapp/spec/models/user_spec.rb" added="2014-06-25T10:03:19Z" modified="2014-06-25T10:03:19Z" visited="2014-06-25T10:03:20Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ruby"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2014-06-25T10:03:19Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/sampleapp/spec/support/utilities.rb" added="2014-06-25T10:04:47Z" modified="2014-06-25T10:04:47Z" visited="2014-06-25T10:04:47Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ruby"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2014-06-25T10:04:47Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/sampleapp/spec/factories.rb" added="2014-06-25T10:05:16Z" modified="2014-06-25T10:05:16Z" visited="2014-06-25T10:05:16Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ruby"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2014-06-25T10:05:16Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/sample_app" added="2014-06-25T10:44:50Z" modified="2014-06-25T10:44:50Z" visited="2014-06-25T10:44:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2014-06-25T10:44:50Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/sample_app/app/views/static_pages/about.html.erb" added="2014-06-25T11:04:41Z" modified="2014-06-25T11:04:41Z" visited="2014-06-25T11:04:41Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2014-06-25T11:04:41Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/sample_app/app/views/static_pages/contact.html.erb" added="2014-06-25T11:11:59Z" modified="2014-06-25T11:11:59Z" visited="2014-06-25T11:12:00Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2014-06-25T11:11:59Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/sample_app/app/views/layouts/_header.html.erb" added="2014-06-25T11:32:30Z" modified="2014-06-25T11:32:30Z" visited="2014-06-25T11:32:30Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2014-06-25T11:32:30Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/sample_app/app/views/layouts/_footer.html.erb" added="2014-06-25T11:32:56Z" modified="2014-06-25T11:32:56Z" visited="2014-06-25T11:32:56Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2014-06-25T11:32:56Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/sample_app/spec/support/utilities.rb" added="2014-06-25T11:48:17Z" modified="2014-06-25T11:48:17Z" visited="2014-06-25T11:48:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ruby"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2014-06-25T11:48:17Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/sample_app/spec/factories.rb" added="2014-06-25T12:24:33Z" modified="2014-06-25T12:24:33Z" visited="2014-06-25T12:24:33Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ruby"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2014-06-25T12:24:33Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/sample_app/app/views/users/show.html.erb" added="2014-06-25T12:26:41Z" modified="2014-06-25T12:26:41Z" visited="2014-06-25T12:26:42Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2014-06-25T12:26:41Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/sample_app/app/views/shared/_error_messages.html.erb" added="2014-06-25T12:59:29Z" modified="2014-06-25T12:59:29Z" visited="2014-06-25T12:59:29Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2014-06-25T12:59:29Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/Downloads/testing_with_rspec_slides.pdf" added="2014-06-26T05:56:41Z" modified="2014-06-26T05:56:41Z" visited="2014-06-26T05:56:41Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2014-06-26T05:56:41Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/sample_app/app/views/sessions/new.html.erb" added="2014-06-26T06:12:53Z" modified="2014-06-26T06:12:53Z" visited="2014-06-26T06:12:53Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2014-06-26T06:12:53Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/sample_app/app/views/users/edit.html.erb" added="2014-06-26T08:46:23Z" modified="2014-06-26T08:46:23Z" visited="2014-06-26T08:46:23Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2014-06-26T08:46:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/Downloads/PARAMESH%20A__1382457917_210.212.209.67.jpg" added="2014-06-26T09:54:12Z" modified="2014-07-03T08:57:00Z" visited="2014-06-26T09:54:12Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2014-07-03T08:57:00Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/Downloads/sow.jpeg" added="2014-06-26T11:15:24Z" modified="2014-06-26T11:17:15Z" visited="2014-06-26T11:15:25Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2014-06-26T11:17:15Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/Downloads/fun.jpeg" added="2014-06-26T11:16:24Z" modified="2014-06-26T11:16:25Z" visited="2014-06-26T11:16:26Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2014-06-26T11:16:25Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/sample_app/app/views/users/index.html.erb" added="2014-06-26T12:48:10Z" modified="2014-06-26T12:48:10Z" visited="2014-06-26T12:48:10Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2014-06-26T12:48:10Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/Leonia.xls" added="2014-06-27T04:41:18Z" modified="2014-06-27T05:15:01Z" visited="2014-06-27T04:41:18Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.ms-excel"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunderbird" exec="&apos;thunderbird %u&apos;" modified="2014-06-27T04:41:18Z" count="1"/>
+          <bookmark:application name="LibreOffice 4.1" exec="&apos;soffice %u&apos;" modified="2014-06-27T05:15:01Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/sample_app/lib/tasks/sample_data.rake" added="2014-06-27T05:26:51Z" modified="2014-06-27T07:40:13Z" visited="2014-06-27T05:26:52Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2014-06-27T07:40:13Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/sample_app/app/views/microposts/_micropost.html.erb" added="2014-06-27T11:28:50Z" modified="2014-06-27T11:28:50Z" visited="2014-06-27T11:28:50Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2014-06-27T11:28:50Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/sample_app/tmp/pids/server.pid" added="2014-06-30T04:54:43Z" modified="2014-06-30T04:54:48Z" visited="2014-06-30T04:54:43Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Text Editor" exec="&apos;gedit %u&apos;" modified="2014-06-30T04:54:48Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/sample_app/app/controllers/microposts_controller.rb" added="2014-06-30T05:23:05Z" modified="2014-06-30T05:23:05Z" visited="2014-06-30T05:23:05Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ruby"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2014-06-30T05:23:05Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/sample_app/app/views/shared/_user_info.html.erb" added="2014-06-30T05:40:39Z" modified="2014-06-30T05:40:39Z" visited="2014-06-30T05:40:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2014-06-30T05:40:39Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/sample_app/app/views/shared/_micropost_form.html.erb" added="2014-06-30T05:41:15Z" modified="2014-06-30T05:41:15Z" visited="2014-06-30T05:41:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2014-06-30T05:41:15Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/sample_app/app/views/shared/_feed.html.erb" added="2014-06-30T06:06:07Z" modified="2014-06-30T06:06:07Z" visited="2014-06-30T06:06:08Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2014-06-30T06:06:07Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/sample_app/app/views/shared/_feed_item.html.erb" added="2014-06-30T06:07:31Z" modified="2014-06-30T06:07:31Z" visited="2014-06-30T06:07:32Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2014-06-30T06:07:31Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/sample_app/app/views/users/_follow.form.html.erb" added="2014-06-30T08:07:03Z" modified="2014-06-30T08:07:03Z" visited="2014-06-30T08:07:03Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2014-06-30T08:07:03Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/sample_app/app/views/users/_follow.html.erb" added="2014-06-30T08:09:00Z" modified="2014-06-30T08:09:00Z" visited="2014-06-30T08:09:01Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2014-06-30T08:09:00Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/sample_app/app/views/users/_unfollow.html.erb" added="2014-06-30T08:10:21Z" modified="2014-06-30T08:10:21Z" visited="2014-06-30T08:10:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2014-06-30T08:10:21Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/sample_app/app/views/shared/_stats.html.erb" added="2014-06-30T08:12:48Z" modified="2014-06-30T08:12:48Z" visited="2014-06-30T08:12:49Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2014-06-30T08:12:48Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/sample_app/app/views/users/show_follow.html.erb" added="2014-06-30T10:31:46Z" modified="2014-06-30T10:31:46Z" visited="2014-06-30T10:31:46Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2014-06-30T10:31:46Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/sample_app/app/controllers/relationships_controller.rb" added="2014-06-30T10:48:51Z" modified="2014-06-30T10:48:51Z" visited="2014-06-30T10:48:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ruby"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2014-06-30T10:48:51Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/sample_app/spec/controllers/relationships_controller_spec.rb" added="2014-06-30T11:04:34Z" modified="2014-06-30T11:04:34Z" visited="2014-06-30T11:04:34Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ruby"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2014-06-30T11:04:34Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/sample_app/app/views/relationships/create.js.erb" added="2014-06-30T11:08:22Z" modified="2014-06-30T11:08:22Z" visited="2014-06-30T11:08:23Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2014-06-30T11:08:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/sample_app/app/views/relationships/destroy.js.erb" added="2014-06-30T11:09:09Z" modified="2014-06-30T11:09:09Z" visited="2014-06-30T11:09:09Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2014-06-30T11:09:09Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/validations" added="2014-07-01T06:19:37Z" modified="2014-07-01T06:19:37Z" visited="2014-07-01T06:19:37Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2014-07-01T06:19:37Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/validations/app/models/college.rb" added="2014-07-01T07:57:02Z" modified="2014-07-01T07:57:21Z" visited="2014-07-01T07:57:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ruby"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2014-07-01T07:57:21Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/Desktop/janmabhoomi.pdf" added="2014-07-02T09:58:06Z" modified="2014-07-02T09:58:06Z" visited="2014-07-02T09:58:06Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2014-07-02T09:58:06Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/Desktop/visakha.pdf" added="2014-07-02T09:58:06Z" modified="2014-07-02T09:58:06Z" visited="2014-07-02T09:58:06Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2014-07-02T09:58:06Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/410382.jpg" added="2014-07-03T05:52:46Z" modified="2014-07-03T05:52:46Z" visited="2014-07-03T05:52:46Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2014-07-03T05:52:46Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/Downloads/799018.pdf" added="2014-07-03T05:53:00Z" modified="2014-07-03T05:53:00Z" visited="2014-07-03T05:53:00Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2014-07-03T05:53:00Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/check" added="2014-07-03T06:39:05Z" modified="2014-07-03T06:39:05Z" visited="2014-07-03T06:39:05Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2014-07-03T06:39:05Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/Downloads/rails.zip" added="2014-07-04T05:48:38Z" modified="2014-07-04T05:48:38Z" visited="2014-07-04T05:48:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2014-07-04T05:48:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/User_Auth" added="2014-07-04T06:21:54Z" modified="2014-07-04T06:52:00Z" visited="2014-07-04T06:21:55Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2014-07-04T06:52:00Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/User_Auth/app/views/layouts/_new.html.erb" added="2014-07-04T07:56:28Z" modified="2014-07-04T07:56:28Z" visited="2014-07-04T07:56:28Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2014-07-04T07:56:28Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/Desktop/sample_app.zip" added="2014-07-04T12:58:07Z" modified="2014-07-04T12:58:07Z" visited="2014-07-04T12:58:07Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2014-07-04T12:58:07Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/Desktop/Qualificaations" added="2014-07-08T05:24:35Z" modified="2014-07-08T05:24:35Z" visited="2014-07-08T05:24:36Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2014-07-08T05:24:35Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/Downloads" added="2014-07-09T04:50:17Z" modified="2014-07-09T04:50:17Z" visited="2014-07-09T04:50:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunderbird" exec="&apos;thunderbird %u&apos;" modified="2014-07-09T04:50:17Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/Desktop/Development%20Review%20Checklist.xlsx" added="2014-07-09T04:50:33Z" modified="2014-07-09T06:01:11Z" visited="2014-07-09T04:50:34Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunderbird" exec="&apos;thunderbird %u&apos;" modified="2014-07-09T05:01:58Z" count="4"/>
+          <bookmark:application name="LibreOffice 4.1" exec="&apos;soffice %u&apos;" modified="2014-07-09T06:01:11Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/Desktop/Schema_for_PostgreSQL_migration-2014-07-08.zip" added="2014-07-09T04:50:42Z" modified="2014-07-09T04:50:43Z" visited="2014-07-09T04:50:43Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunderbird" exec="&apos;thunderbird %u&apos;" modified="2014-07-09T04:50:43Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/Desktop/schema-v9.mwb" added="2014-07-09T04:50:48Z" modified="2014-07-09T04:50:48Z" visited="2014-07-09T04:50:49Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunderbird" exec="&apos;thunderbird %u&apos;" modified="2014-07-09T04:50:48Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/Desktop/Debug-JavaScript-Jquery.pdf" added="2014-07-09T04:51:14Z" modified="2014-07-09T04:51:15Z" visited="2014-07-09T04:51:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunderbird" exec="&apos;thunderbird %u&apos;" modified="2014-07-09T04:51:15Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/Desktop/Rspec" added="2014-07-09T05:00:16Z" modified="2014-07-09T05:00:16Z" visited="2014-07-09T05:00:16Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunderbird" exec="&apos;thunderbird %u&apos;" modified="2014-07-09T05:00:16Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/Downloads/RESUME.pdf" added="2014-07-09T05:04:46Z" modified="2014-07-09T05:04:46Z" visited="2014-07-09T05:04:46Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2014-07-09T05:04:46Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/Downloads/ANUSHA%20SAITHALA_BTECH_CSE.doc.docx" added="2014-07-09T05:05:08Z" modified="2014-07-09T05:48:06Z" visited="2014-07-09T05:05:08Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2014-07-09T05:48:06Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/Downloads/resume1.docx" added="2014-07-09T05:05:18Z" modified="2014-07-09T05:05:18Z" visited="2014-07-09T05:05:18Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2014-07-09T05:05:18Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/Downloads/Radhikesh.pdf" added="2014-07-09T05:16:05Z" modified="2014-07-09T05:40:41Z" visited="2014-07-09T05:16:06Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2014-07-09T05:40:41Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/Downloads/sateesh.docx" added="2014-07-09T05:16:20Z" modified="2014-07-09T05:45:05Z" visited="2014-07-09T05:16:20Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2014-07-09T05:45:05Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/Desktop/Schema%20for%20PostgreSQL%20migration/Schema%20Design%20and%20Rails%20migration%20notes.docx" added="2014-07-09T06:06:54Z" modified="2014-07-09T06:07:01Z" visited="2014-07-09T06:06:54Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 4.1" exec="&apos;soffice %u&apos;" modified="2014-07-09T06:07:01Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/Desktop/Schema%20for%20PostgreSQL%20migration/Schema%20Design%20Notes.docx" added="2014-07-09T06:07:02Z" modified="2014-07-09T06:08:05Z" visited="2014-07-09T06:07:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 4.1" exec="&apos;soffice %u&apos;" modified="2014-07-09T06:08:05Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/Desktop/Schema%20for%20PostgreSQL%20migration/Schema%20Discussion%20Notes%20-%2003-21.docx" added="2014-07-09T06:08:06Z" modified="2014-07-09T06:08:27Z" visited="2014-07-09T06:08:07Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 4.1" exec="&apos;soffice %u&apos;" modified="2014-07-09T06:08:27Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/Desktop/Rspec/Functionality-API-Q-Model-Map.xlsx" added="2014-07-09T06:14:51Z" modified="2014-07-09T06:15:22Z" visited="2014-07-09T06:14:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 4.1" exec="&apos;soffice %u&apos;" modified="2014-07-09T06:15:22Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/Desktop/Rspec/Knowledge%20Transfer.pptx" added="2014-07-09T06:15:25Z" modified="2014-07-09T06:20:23Z" visited="2014-07-09T06:15:25Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.presentationml.presentation"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 4.1" exec="&apos;soffice %u&apos;" modified="2014-07-09T06:20:23Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/final" added="2014-07-09T06:42:59Z" modified="2014-07-09T06:42:59Z" visited="2014-07-09T06:42:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2014-07-09T06:42:59Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/final/spec/models/contact_spec.rb" added="2014-07-09T07:24:19Z" modified="2014-07-09T07:24:19Z" visited="2014-07-09T07:24:19Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ruby"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2014-07-09T07:24:19Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/final/spec/factories/contact.rb" added="2014-07-09T08:59:20Z" modified="2014-07-09T08:59:20Z" visited="2014-07-09T08:59:20Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ruby"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2014-07-09T08:59:20Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/final/app/helpers/contact_helper.rb" added="2014-07-09T09:06:59Z" modified="2014-07-09T09:06:59Z" visited="2014-07-09T09:06:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ruby"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2014-07-09T09:06:59Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/Downloads/StudentExitFeedback.docx" added="2014-07-09T11:24:07Z" modified="2014-07-09T11:45:33Z" visited="2014-07-09T11:24:07Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2014-07-09T11:45:33Z" count="2"/>
+          <bookmark:application name="LibreOffice 4.1" exec="&apos;soffice %u&apos;" modified="2014-07-09T11:44:57Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/Downloads/AlumniFeedback.docx" added="2014-07-09T11:24:13Z" modified="2014-07-09T11:37:00Z" visited="2014-07-09T11:24:14Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2014-07-09T11:37:00Z" count="3"/>
+          <bookmark:application name="LibreOffice 4.1" exec="&apos;soffice %u&apos;" modified="2014-07-09T11:35:51Z" count="8"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/techrains/Downloads/Qualificaations" added="2014-07-11T10:44:45Z" modified="2014-07-11T10:44:45Z" visited="2014-07-11T10:44:46.037874Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2014-07-11T10:44:45Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

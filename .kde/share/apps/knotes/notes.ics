@@ -1,0 +1,81 @@
+BEGIN:VCALENDAR
+PRODID:-//K Desktop Environment//NONSGML libkcal 4.3//EN
+VERSION:2.0
+BEGIN:VJOURNAL
+DTSTAMP:20140710T131859Z
+X-KDE-KNotes-BgColor:#ffffbd
+X-KDE-KNotes-FgColor:#000000
+X-KDE-KNotes-RichText:false
+CREATED:20140630T082701Z
+UID:libkcal-510769962.408
+LAST-MODIFIED:20140630T082701Z
+DESCRIPTION;X-KDE-TEXTFORMAT=HTML:<!DOCTYPE HTML PUBLIC \"-//W3C//DTD 
+ HTML 4.0//EN\" \"http:
+ //www.w3.org/TR/REC-html40/strict.dtd\">\n<html><head><meta 
+ name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\np\, li { 
+ white-space: pre-wrap\; }\n</style></head><body style=\" font-family:
+ 'Liberation Sans'\; font-size:10pt\; font-weight:400\; font-style:normal\;
+ \">\n<p style=\" margin-top:0px\; margin-bottom:0px\; margin-left:0px\; 
+ margin-right:0px\; -qt-block-indent:0\; text-indent:0px\;
+ \">twtws</p></body></html>
+SUMMARY:Somebody has left a note at 1:57 PM
+END:VJOURNAL
+BEGIN:VJOURNAL
+DTSTAMP:20140710T131859Z
+X-KDE-KNotes-BgColor:#ffffbd
+X-KDE-KNotes-FgColor:#000000
+X-KDE-KNotes-RichText:false
+CREATED:20140630T082716Z
+UID:libkcal-592867123.783
+LAST-MODIFIED:20140630T082716Z
+DESCRIPTION;X-KDE-TEXTFORMAT=HTML:<!DOCTYPE HTML PUBLIC \"-//W3C//DTD 
+ HTML 4.0//EN\" \"http:
+ //www.w3.org/TR/REC-html40/strict.dtd\">\n<html><head><meta 
+ name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\np\, li { 
+ white-space: pre-wrap\; }\n</style></head><body style=\" font-family:
+ 'Liberation Sans'\; font-size:10pt\; font-weight:400\; font-style:normal\;
+ \">\n<p style=\" margin-top:0px\; margin-bottom:0px\; margin-left:0px\; 
+ margin-right:0px\; -qt-block-indent:0\; text-indent:0px\;
+ \">hiiiiiiiii</p></body></html>
+SUMMARY:Somebody has left a note at 1:57 PM
+END:VJOURNAL
+BEGIN:VJOURNAL
+DTSTAMP:20140710T131859Z
+X-KDE-KNotes-BgColor:#ffffbd
+X-KDE-KNotes-FgColor:#000000
+X-KDE-KNotes-RichText:false
+CREATED:20140630T082651Z
+UID:libkcal-1254056297.190
+LAST-MODIFIED:20140630T082651Z
+SUMMARY:30/06/2014 1:56 PM
+END:VJOURNAL
+BEGIN:VJOURNAL
+DTSTAMP:20140710T131859Z
+X-KDE-KNotes-BgColor:#ffffbd
+X-KDE-KNotes-FgColor:#000000
+X-KDE-KNotes-RichText:false
+CREATED:20140710T101457Z
+UID:libkcal-1080823697.344
+LAST-MODIFIED:20140710T101457Z
+SUMMARY:10/07/2014 3:44 PM
+END:VJOURNAL
+BEGIN:VJOURNAL
+DTSTAMP:20140710T131859Z
+X-KDE-KNotes-BgColor:#ffffbd
+X-KDE-KNotes-FgColor:#000000
+X-KDE-KNotes-RichText:false
+CREATED:20140630T082700Z
+UID:libkcal-418966474.950
+LAST-MODIFIED:20140630T082700Z
+DESCRIPTION;X-KDE-TEXTFORMAT=HTML:<!DOCTYPE HTML PUBLIC \"-//W3C//DTD 
+ HTML 4.0//EN\" \"http:
+ //www.w3.org/TR/REC-html40/strict.dtd\">\n<html><head><meta 
+ name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\np\, li { 
+ white-space: pre-wrap\; }\n</style></head><body style=\" font-family:
+ 'Liberation Sans'\; font-size:10pt\; font-weight:400\; font-style:normal\;
+ \">\n<p style=\" margin-top:0px\; margin-bottom:0px\; margin-left:0px\; 
+ margin-right:0px\; -qt-block-indent:0\; text-indent:0px\;
+ \">re</p></body></html>
+SUMMARY:Somebody has left a note at 1:56 PM
+END:VJOURNAL
+END:VCALENDAR

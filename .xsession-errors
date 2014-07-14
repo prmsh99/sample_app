@@ -1,0 +1,534 @@
+/etc/mdm/Xsession: Beginning session setup...
+localuser:techrains being added to access control list
+Script for cjkv started at run_im.
+Script for default started at run_im.
+Failed to connect to the VirtualBox kernel service
+Failed to connect to the VirtualBox kernel service
+Failed to connect to the VirtualBox kernel service
+Failed to connect to the VirtualBox kernel service
+Failed to connect to the VirtualBox kernel service
+Script for cjkv started at run_im.
+Script for default started at run_im.
+startkde: Starting up...
+Connecting to deprecated signal QDBusConnectionInterface::serviceOwnerChanged(QString,QString,QString)
+QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+kbuildsycoca4 running...
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry application/csv in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry application/excel in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry application/msexcel in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry application/mspowerpoint in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry application/msword in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry application/postscript in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry application/rtf in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry application/tab-separated-values in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry application/vnd.lotus-1-2-3 in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry application/vnd.ms-excel in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry application/vnd.ms-powerpoint in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry application/vnd.ms-word in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry application/vnd.oasis.opendocument.formula in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry application/vnd.oasis.opendocument.graphics in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry application/vnd.oasis.opendocument.graphics-template in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry application/vnd.oasis.opendocument.presentation in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry application/vnd.oasis.opendocument.presentation-template in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry application/vnd.oasis.opendocument.spreadsheet in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry application/vnd.oasis.opendocument.spreadsheet-template in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry application/vnd.oasis.opendocument.text in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry application/vnd.oasis.opendocument.text-master in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry application/vnd.oasis.opendocument.text-template in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry application/vnd.oasis.opendocument.text-web in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry application/vnd.openxmlformats-officedocument.presentationml.presentation in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry application/vnd.openxmlformats-officedocument.presentationml.slide in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry application/vnd.openxmlformats-officedocument.presentationml.slideshow in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry application/vnd.openxmlformats-officedocument.presentationml.template in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry application/vnd.openxmlformats-officedocument.spreadsheetml.sheet in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry application/vnd.openxmlformats-officedocument.spreadsheetml.template in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry application/vnd.openxmlformats-officedocument.wordprocessingml.document in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry application/vnd.openxmlformats-officedocument.wordprocessingml.template in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry application/vnd.rn-realmedia in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry application/vnd.stardivision.calc in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry application/vnd.stardivision.draw in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry application/vnd.stardivision.impress in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry application/vnd.stardivision.math in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry application/vnd.stardivision.writer in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry application/vnd.sun.xml.calc in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry application/vnd.sun.xml.calc.template in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry application/vnd.sun.xml.draw in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry application/vnd.sun.xml.draw.template in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry application/vnd.sun.xml.impress in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry application/vnd.sun.xml.impress.template in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry application/vnd.sun.xml.math in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry application/vnd.sun.xml.writer in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry application/vnd.sun.xml.writer.global in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry application/vnd.sun.xml.writer.template in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry application/vnd.wordperfect in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry application/wordperfect in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry application/x-123 in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry application/x-abiword in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry application/x-applix-spreadsheet in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry application/x-dos_ms_excel in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry application/x-excel in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry application/x-extension-m4a in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry application/x-extension-mp4 in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry application/x-flac in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry application/x-glade in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry application/x-gnumeric in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry application/x-gzpostscript in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry application/x-java-jnlp-file in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry application/x-matroska in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry application/x-mps in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry application/x-ms-excel in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry application/x-msexcel in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry application/x-ogg in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry application/x-oleo in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry application/x-planperfect in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry application/x-quattropro in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry application/x-sc in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry application/x-shockwave-flash in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry application/x-sylk in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry application/x-xbase in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry application/x-xls in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry application/xhtml+xml in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry application/xls in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry audio/3gpp in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry audio/AMR in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry audio/AMR-WB in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry audio/ac3 in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry audio/basic in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry audio/flac in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry audio/midi in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry audio/mp4 in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry audio/mpeg in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry audio/mpegurl in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry audio/ogg in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry audio/prs.sid in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry audio/vnd.rn-realaudio in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry audio/x-ape in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry audio/x-flac in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry audio/x-gsm in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry audio/x-it in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry audio/x-m4a in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry audio/x-matroska in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry audio/x-mod in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry audio/x-mp3 in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry audio/x-mpeg in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry audio/x-mpegurl in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry audio/x-ms-asf in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry audio/x-ms-asx in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry audio/x-ms-wax in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry audio/x-ms-wma in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry audio/x-musepack in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry audio/x-pn-aiff in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry audio/x-pn-au in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry audio/x-pn-realaudio in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry audio/x-pn-realaudio-plugin in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry audio/x-pn-wav in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry audio/x-pn-windows-acm in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry audio/x-real-audio in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry audio/x-realaudio in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry audio/x-sbc in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry audio/x-scpls in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry audio/x-speex in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry audio/x-tta in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry audio/x-vorbis in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry audio/x-vorbis+ogg in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry audio/x-wav in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry audio/x-wavpack in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry audio/x-xm in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry image/vnd.rn-realpix in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry image/x-psd in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry inode/directory in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry misc/ultravox in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry text/abiword in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry text/calendar in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry text/comma-separated-values in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry text/csv in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry text/html in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry text/richtext in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry text/rtf in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry text/spreadsheet in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry text/tab-separated-values in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry text/x-comma-separated-values in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry text/xml in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry video/3gpp in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry video/dv in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry video/fli in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry video/flv in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry video/mp2t in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry video/mp4 in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry video/mp4v-es in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry video/mpeg in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry video/msvideo in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry video/ogg in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry video/quicktime in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry video/vivo in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry video/vnd.divx in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry video/vnd.rn-realvideo in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry video/vnd.vivo in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry video/webm in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry video/x-anim in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry video/x-avi in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry video/x-flc in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry video/x-fli in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry video/x-flic in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry video/x-flv in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry video/x-m4v in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry video/x-matroska in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry video/x-mpeg in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry video/x-ms-asf in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry video/x-ms-asx in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry video/x-ms-wm in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry video/x-ms-wmv in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry video/x-ms-wmx in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry video/x-ms-wvx in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry video/x-msvideo in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry video/x-nsv in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry video/x-ogm+ogg in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry video/x-theora+ogg in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry video/x-totem-stream in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry x-content/audio-cdda in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry x-content/audio-dvd in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry x-content/audio-player in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry x-content/video-dvd in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry x-content/video-svcd in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry x-content/video-vcd in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry x-scheme-handler/apt in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry x-scheme-handler/http in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry x-scheme-handler/https in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry x-scheme-handler/mailto in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(1705) KConfigGroup::readXdgListEntry: List entry zz-application/zz-winassoc-xls in "/home/techrains/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+QDBusObjectPath: invalid path ""
+QObject::connect: Cannot connect (null)::deviceFound(Device*) to BlueDevilDaemon::deviceFound(Device*)
+QObject::connect: Cannot connect QTimer::timeout() to (null)::stopDiscovery()
+NetworkManagerQt "kded" ( 1704 ) void NetworkManager::SettingsPrivate::init() : New Connections list 
+NetworkManagerQt "kded" ( 1704 ) void NetworkManager::SettingsPrivate::init() :   "/org/freedesktop/NetworkManager/Settings/0" 
+NetworkManagerQt "kded" ( 1704 ) void NetworkManager::SettingsPrivate::init() : New Connections list 
+NetworkManagerQt "kded" ( 1704 ) void NetworkManager::NetworkManagerPrivate::init() : Active connections: 
+NetworkManagerQt "kded" ( 1704 ) void NetworkManager::NetworkManagerPrivate::init() :      "/org/freedesktop/NetworkManager/ActiveConnection/0" 
+NetworkManagerQt "kded" ( 1704 ) void NetworkManager::NetworkManagerPrivate::init() : Device list 
+NetworkManagerQt "kded" ( 1704 ) void NetworkManager::NetworkManagerPrivate::init() :    "/org/freedesktop/NetworkManager/Devices/0" 
+QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+No outputs have backlight property
+QDBusConnection: name 'org.kde.kglobalaccel' had owner '' but we thought it was ':1.5'
+"/org/freedesktop/UDisks2/drives/TSSTcorpDVD_ROM_TS_H353C_R60668BB347498" : property "Drive" does not exist 
+"/org/freedesktop/UDisks2/drives/ST3500413AS_6VMTA1MW" : property "Drive" does not exist 
+"/org/freedesktop/UDisks2/drives/ST3500413AS_6VMTA1MW" : property "DeviceNumber" does not exist 
+"/org/freedesktop/UDisks2/drives/ST3500413AS_6VMTA1MW" : property "Device" does not exist 
+QDBusConnection: name 'org.freedesktop.UDisks2' had owner '' but we thought it was ':1.27'
+QDBusObjectPath: invalid path ""
+kded(1704) ColorD::addOutput: Failed to register device: "device id 'xrandr-Acer S220HQL-LWTSS0034341' already exists" 
+kded(1704): "Can not save profile '' as it either does not have a name or no configuration file was opened!" 
+QDBusObjectPath: invalid path ""
+kded(1704) ColorD::addOutput: Failed to register device: "device id 'xrandr-Acer S220HQL-LWTSS0034341' already exists" 
+QDBusObjectPath: invalid path ""
+kded(1704) ColorD::addOutput: Failed to register device: "device id 'xrandr-Acer S220HQL-LWTSS0034341' already exists" 
+kded(1704) ProfileUtils::createIccProfile: EDID ICC Profile already exists "/home/techrains/.local/share/icc/edid-f5c465736bc0b8322466b748c76381d2.icc" 
+kded(1704) ProfileUtils::createIccProfile: EDID ICC Profile already exists "/home/techrains/.local/share/icc/edid-f5c465736bc0b8322466b748c76381d2.icc" 
+kded(1704) ProfileUtils::createIccProfile: EDID ICC Profile already exists "/home/techrains/.local/share/icc/edid-f5c465736bc0b8322466b748c76381d2.icc" 
+kded(1704) ProfileUtils::createIccProfile: EDID ICC Profile already exists "/home/techrains/.local/share/icc/edid-f5c465736bc0b8322466b748c76381d2.icc" 
+QDBusObjectPath: invalid path ""
+kded(1704) ColorD::deviceChanged: Output not found 
+QDBusObjectPath: invalid path ""
+kded(1704) ColorD::addOutput: Failed to register device: "device id 'xrandr-Acer S220HQL-LWTSS0034341' already exists" 
+QDBusObjectPath: invalid path ""
+kded(1704) ColorD::addOutput: Failed to register device: "device id 'xrandr-Acer S220HQL-LWTSS0034341' already exists" 
+QDBusObjectPath: invalid path ""
+kded(1704) ColorD::addOutput: Failed to register device: "device id 'xrandr-Acer S220HQL-LWTSS0034341' already exists" 
+kded(1704) ProfileUtils::createIccProfile: EDID ICC Profile already exists "/home/techrains/.local/share/icc/edid-f5c465736bc0b8322466b748c76381d2.icc" 
+kded(1704) ProfileUtils::createIccProfile: EDID ICC Profile already exists "/home/techrains/.local/share/icc/edid-f5c465736bc0b8322466b748c76381d2.icc" 
+kded(1704) ProfileUtils::createIccProfile: EDID ICC Profile already exists "/home/techrains/.local/share/icc/edid-f5c465736bc0b8322466b748c76381d2.icc" 
+kded(1704) PowerDevil::Core::loadProfile: The profile  "AC" tried to activate "DimDisplay" a non existent action. This is usually due to an installation problem or to a configuration problem. or simlpy the action is not supported 
+QObject::connect: Cannot connect (null)::resourceScoreUpdated(QString, QString, QString, double) to NepomukPlugin::resourceScoreUpdated(QString, QString, QString, double)
+QObject::connect: Cannot connect (null)::recentStatsDeleted(QString, int, QString) to NepomukPlugin::deleteRecentStats(QString, int, QString)
+QObject::connect: Cannot connect (null)::earlierStatsDeleted(QString, int) to NepomukPlugin::deleteEarlierStats(QString, int)
+QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+kactivitymanagerd(1724)/nepomuk (library): Could not find virtuoso to connect to. Aborting 
+QCoreApplication::sendPostedEvents: Cannot send posted events for objects in another thread
+QCoreApplication::sendPostedEvents: Cannot send posted events for objects in another thread
+QCoreApplication::sendPostedEvents: Cannot send posted events for objects in another thread
+QCoreApplication::sendPostedEvents: Cannot send posted events for objects in another thread
+OpenGL vendor string:                   Intel Open Source Technology Center
+OpenGL renderer string:                 Mesa DRI Intel(R) Sandybridge Desktop 
+OpenGL version string:                  3.0 Mesa 9.2.1
+OpenGL shading language version string: 1.30
+Driver:                                 Intel
+GPU class:                              SandyBridge
+OpenGL version:                         3.0
+GLSL version:                           1.30
+Mesa version:                           9.2.1
+X server version:                       1.14.3
+Linux kernel version:                   3.11
+Direct rendering:                       yes
+Requires strict binding:                no
+GLSL shaders:                           yes
+Texture NPOT support:                   yes
+Virtual Machine:                        no
+QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+QDBusObjectPath: invalid path ""
+plasma-desktop(1867)/libplasma Plasma::isPluginVersionCompatible: unversioned plugin detected, may result in instability 
+QGraphicsLinearLayout::insertItem: cannot insert null item
+plasma-desktop(1867)/libplasma Plasma::isPluginVersionCompatible: unversioned plugin detected, may result in instability 
+plasma-desktop(1867)/libplasma Plasma::isPluginVersionCompatible: unversioned plugin detected, may result in instability 
+static bool QDeclarativeMetaType::isModule(const QByteArray&, int, int) Qt 4.7 import detected; please note that Qt 4.7 is directly reusable as QtQuick 1.x with no code changes. Continuing, but startup time will be slower. 
+========================>  7 0
+plasma-desktop(1867) MessageIndicator::adjustViewSize: No parentWidget for applet widget()! 
+plasma-desktop(1867) MessageIndicator::adjustViewSize: No parentWidget for applet widget()! 
+"/org/freedesktop/UDisks2/drives/TSSTcorpDVD_ROM_TS_H353C_R60668BB347498" : property "Drive" does not exist 
+"/org/freedesktop/UDisks2/drives/ST3500413AS_6VMTA1MW" : property "Drive" does not exist 
+"/org/freedesktop/UDisks2/drives/ST3500413AS_6VMTA1MW" : property "DeviceNumber" does not exist 
+"/org/freedesktop/UDisks2/drives/ST3500413AS_6VMTA1MW" : property "Device" does not exist 
+"/org/freedesktop/UDisks2/drives/ST3500413AS_6VMTA1MW" : property "Table" does not exist 
+file:///usr/lib/kde4/imports/org/kde/plasma/components/SectionScroller.qml:103: TypeError: Result of expression 'listView' [null] is not an object.
+file:///usr/lib/kde4/imports/org/kde/plasma/components/SectionScroller.qml:175: ReferenceError: Can't find variable: sectionsRepeater
+file:///usr/lib/kde4/imports/org/kde/plasma/components/SectionScroller.qml:103: Error: Cannot assign [undefined] to QString
+file:///usr/share/kde4/apps/plasma/plasmoids/notifier/contents/ui/devicenotifier.qml:224:13: QML QDeclarativeListView_QML_58: Possible anchor loop detected on fill.
+file:///usr/share/kde4/apps/plasma/plasmoids/notifier/contents/ui/devicenotifier.qml:224:13: QML QDeclarativeListView_QML_58: Possible anchor loop detected on fill.
+file:///usr/share/kde4/apps/plasma/plasmoids/notifier/contents/ui/devicenotifier.qml:224:13: QML QDeclarativeListView_QML_58: Possible anchor loop detected on fill.
+file:///usr/share/kde4/apps/plasma/plasmoids/notifier/contents/ui/devicenotifier.qml:224:13: QML QDeclarativeListView_QML_58: Possible anchor loop detected on fill.
+file:///usr/share/kde4/apps/plasma/plasmoids/notifier/contents/ui/devicenotifier.qml:224:13: QML QDeclarativeListView_QML_58: Possible anchor loop detected on fill.
+file:///usr/share/kde4/apps/plasma/plasmoids/notifier/contents/ui/devicenotifier.qml:224:13: QML QDeclarativeListView_QML_58: Possible anchor loop detected on fill.
+file:///usr/share/kde4/apps/plasma/plasmoids/notifier/contents/ui/devicenotifier.qml:224:13: QML QDeclarativeListView_QML_58: Possible anchor loop detected on fill.
+NetworkManagerQt "plasma-desktop" ( 1867 ) void NetworkManager::SettingsPrivate::init() : New Connections list 
+NetworkManagerQt "plasma-desktop" ( 1867 ) void NetworkManager::SettingsPrivate::init() :   "/org/freedesktop/NetworkManager/Settings/0" 
+NetworkManagerQt "plasma-desktop" ( 1867 ) void NetworkManager::SettingsPrivate::init() : New Connections list 
+NetworkManagerQt "plasma-desktop" ( 1867 ) void NetworkManager::NetworkManagerPrivate::init() : Active connections: 
+NetworkManagerQt "plasma-desktop" ( 1867 ) void NetworkManager::NetworkManagerPrivate::init() :      "/org/freedesktop/NetworkManager/ActiveConnection/0" 
+NetworkManagerQt "plasma-desktop" ( 1867 ) void NetworkManager::NetworkManagerPrivate::init() : Device list 
+NetworkManagerQt "plasma-desktop" ( 1867 ) void NetworkManager::NetworkManagerPrivate::init() :    "/org/freedesktop/NetworkManager/Devices/0" 
+file:///usr/share/kde4/apps/plasma/plasmoids/org.kde.networkmanagement/contents/ui/main.qml:91:9: QML QDeclarativeListView_QML_112: Possible anchor loop detected on fill.
+file:///usr/share/kde4/apps/plasma/plasmoids/org.kde.networkmanagement/contents/ui/main.qml:91:9: QML QDeclarativeListView_QML_112: Possible anchor loop detected on fill.
+file:///usr/share/kde4/apps/plasma/plasmoids/org.kde.networkmanagement/contents/ui/main.qml:91:9: QML QDeclarativeListView_QML_112: Possible anchor loop detected on fill.
+file:///usr/share/kde4/apps/plasma/plasmoids/org.kde.networkmanagement/contents/ui/main.qml:91:9: QML QDeclarativeListView_QML_112: Possible anchor loop detected on fill.
+file:///usr/share/kde4/apps/plasma/plasmoids/org.kde.networkmanagement/contents/ui/main.qml:91:9: QML QDeclarativeListView_QML_112: Possible anchor loop detected on fill.
+file:///usr/share/kde4/apps/plasma/plasmoids/org.kde.networkmanagement/contents/ui/main.qml:91:9: QML QDeclarativeListView_QML_112: Possible anchor loop detected on fill.
+file:///usr/share/kde4/apps/plasma/plasmoids/org.kde.networkmanagement/contents/ui/main.qml:91:9: QML QDeclarativeListView_QML_112: Possible anchor loop detected on fill.
+plasma-desktop(1867)/libakonadi Akonadi::AgentManagerPrivate::createDBusInterface: AgentManager failed to get a valid AgentManager DBus interface. Error is: 1 "org.freedesktop.DBus.Error.NameHasNoOwner" "Could not get owner of name 'org.freedesktop.Akonadi.Control': no such name" 
+Connecting to deprecated signal QDBusConnectionInterface::serviceOwnerChanged(QString,QString,QString)
+plasma-desktop(1867)/libakonadi Akonadi::SessionPrivate::socketError: Socket error occurred: "QLocalSocket::connectToServer: Invalid name" 
+plasma-desktop(1867)/libakonadi Akonadi::SessionPrivate::socketError: Socket error occurred: "QLocalSocket::connectToServer: Invalid name" 
+plasma-desktop(1867) MessageIndicator::adjustViewSize: No parentWidget for applet widget()! 
+X Error: BadPixmap (invalid Pixmap parameter) 4
+  Major opcode: 54 (X_FreePixmap)
+  Resource id:  0x1c00171
+X Error: BadPixmap (invalid Pixmap parameter) 4
+  Major opcode: 54 (X_FreePixmap)
+  Resource id:  0x1c00168
+X Error: BadPixmap (invalid Pixmap parameter) 4
+  Major opcode: 54 (X_FreePixmap)
+  Resource id:  0x1c0015f
+X Error: BadPixmap (invalid Pixmap parameter) 4
+  Major opcode: 54 (X_FreePixmap)
+  Resource id:  0x1c00156
+X Error: BadPixmap (invalid Pixmap parameter) 4
+  Major opcode: 54 (X_FreePixmap)
+  Resource id:  0x1c0014d
+X Error: BadPixmap (invalid Pixmap parameter) 4
+  Major opcode: 54 (X_FreePixmap)
+  Resource id:  0x1c00144
+X Error: BadPixmap (invalid Pixmap parameter) 4
+  Major opcode: 54 (X_FreePixmap)
+  Resource id:  0x1c0013b
+X Error: BadPixmap (invalid Pixmap parameter) 4
+  Major opcode: 54 (X_FreePixmap)
+  Resource id:  0x1c00132
+search paths:  ("/usr/local/sbin", "/usr/local/bin", "/usr/sbin", "/usr/bin", "/sbin", "/bin", "/usr/games", "/usr/local/games", "/usr/sbin", "/usr/local/sbin", "/usr/local/libexec", "/usr/libexec", "/opt/mysql/libexec", "/opt/local/lib/mysql5/bin", "/opt/mysql/sbin") 
+"/org/freedesktop/UDisks2/drives/TSSTcorpDVD_ROM_TS_H353C_R60668BB347498" : property "DeviceNumber" does not exist 
+"/org/freedesktop/UDisks2/drives/TSSTcorpDVD_ROM_TS_H353C_R60668BB347498" : property "Device" does not exist 
+QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+"/org/freedesktop/UDisks2/drives/TSSTcorpDVD_ROM_TS_H353C_R60668BB347498" : property "DeviceNumber" does not exist 
+"/org/freedesktop/UDisks2/drives/TSSTcorpDVD_ROM_TS_H353C_R60668BB347498" : property "Device" does not exist 
+QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+X Error: BadWindow (invalid Window parameter) 3
+  Major opcode: 20 (X_GetProperty)
+  Resource id:  0x1c00277
+X Error: BadWindow (invalid Window parameter) 3
+  Major opcode: 20 (X_GetProperty)
+  Resource id:  0x1c00277
+X Error: BadWindow (invalid Window parameter) 3
+  Major opcode: 20 (X_GetProperty)
+  Resource id:  0x1c00277
+usage: synaptikscfg [-h] [--version] {init,load,save} ...
+synaptikscfg: error: no touchpad found
+PING google.com (74.125.236.192) 56(84) bytes of data.
+
+--- google.com ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 19.510/19.510/19.510/0.000 ms
+QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+New PolkitAgentListener  0xf29a20 
+Adding new listener  PolkitQt1::Agent::Listener(0x10f2140) for  0xf29a20 
+"/org/freedesktop/UDisks2/drives/TSSTcorpDVD_ROM_TS_H353C_R60668BB347498" : property "Drive" does not exist 
+The program 'mintWelcome.py' received an X Window System error.
+This probably reflects a bug in the program.
+The error was 'BadDrawable (invalid Pixmap or Window parameter)'.
+  (Details: serial 1802 error_code 9 request_code 62 minor_code 0)
+  (Note to programmers: normally, X errors are reported asynchronously;
+   that is, you will receive the error a while after causing it.
+   To debug your program, run it with the --sync command line
+   option to change this behavior. You can then get a meaningful
+   backtrace from your debugger if you break on the gdk_x_error() function.)
+krunner(1909)/libakonadi Akonadi::AgentManagerPrivate::createDBusInterface: AgentManager failed to get a valid AgentManager DBus interface. Error is: 1 "org.freedesktop.DBus.Error.NameHasNoOwner" "Could not get owner of name 'org.freedesktop.Akonadi.Control': no such name" 
+krunner(1909)/libakonadi Akonadi::SessionPrivate::socketError: Socket error occurred: "QLocalSocket::connectToServer: Invalid name" 
+krunner(1909)/kio (KDirWatch) KDirWatchPrivate::removeEntry: doesn't know "/home/techrains/.kde/share/apps/kabc" 
+"/org/freedesktop/UDisks2/drives/TSSTcorpDVD_ROM_TS_H353C_R60668BB347498" : property "Drive" does not exist 
+"/org/freedesktop/UDisks2/drives/ST3500413AS_6VMTA1MW" : property "Drive" does not exist 
+I/O warning : failed to load external entity "/home/techrains/.qalculate/eurofxref-daily.xml"
+I/O warning : failed to load external entity "/home/techrains/.qalculate/eurofxref-daily.xml"
+"/org/freedesktop/UDisks2/drives/TSSTcorpDVD_ROM_TS_H353C_R60668BB347498" : property "DeviceNumber" does not exist 
+"/org/freedesktop/UDisks2/drives/TSSTcorpDVD_ROM_TS_H353C_R60668BB347498" : property "Device" does not exist 
+"/org/freedesktop/UDisks2/drives/ST3500413AS_6VMTA1MW" : property "DeviceNumber" does not exist 
+"/org/freedesktop/UDisks2/drives/ST3500413AS_6VMTA1MW" : property "Device" does not exist 
+akonadi.collectionattributetable                   OK
+akonadi.collectionmimetyperelation                 OK
+akonadi.collectionpimitemrelation                  OK
+akonadi.collectiontable                            OK
+akonadi.flagtable                                  OK
+akonadi.mimetypetable                              OK
+akonadi.parttable                                  OK
+akonadi.pimitemflagrelation                        OK
+akonadi.pimitemtable                               OK
+akonadi.resourcetable                              OK
+akonadi.schemaversiontable                         OK
+mysql.columns_priv                                 OK
+mysql.db                                           OK
+mysql.event                                        OK
+mysql.func                                         OK
+mysql.general_log                                  OK
+mysql.help_category                                OK
+mysql.help_keyword                                 OK
+mysql.help_relation                                OK
+mysql.help_topic                                   OK
+mysql.host                                         OK
+mysql.ndb_binlog_index                             OK
+mysql.plugin                                       OK
+mysql.proc                                         OK
+mysql.procs_priv                                   OK
+mysql.proxies_priv                                 OK
+mysql.servers                                      OK
+mysql.slow_log                                     OK
+mysql.tables_priv                                  OK
+mysql.time_zone                                    OK
+mysql.time_zone_leap_second                        OK
+mysql.time_zone_name                               OK
+mysql.time_zone_transition                         OK
+mysql.time_zone_transition_type                    OK
+mysql.user                                         OK
+Nepomuk Query Server not available
+Connecting to deprecated signal QDBusConnectionInterface::serviceOwnerChanged(QString,QString,QString)
+search paths:  ("/usr/local/sbin", "/usr/local/bin", "/usr/sbin", "/usr/bin", "/sbin", "/bin", "/usr/games", "/usr/local/games") 
+search paths:  ("/home/techrains/.kde/lib/kde4/plugins/", "/usr/lib/kde4/plugins/", "/usr/lib/x86_64-linux-gnu/qt4/plugins", "/usr/lib/qt4/plugins", "/usr/bin", "/usr/lib/kde4/plugins", "/home/techrains/.kde/lib/kde4/", "/usr/lib/kde4/") 
+search paths:  ("/home/techrains/.kde/lib/kde4/plugins/", "/usr/lib/kde4/plugins/", "/usr/lib/x86_64-linux-gnu/qt4/plugins", "/usr/lib/qt4/plugins", "/usr/bin", "/usr/lib/kde4/plugins", "/home/techrains/.kde/lib/kde4/", "/usr/lib/kde4/") 
+search paths:  ("/home/techrains/.kde/lib/kde4/plugins/", "/usr/lib/kde4/plugins/", "/usr/lib/x86_64-linux-gnu/qt4/plugins", "/usr/lib/qt4/plugins", "/usr/bin", "/usr/lib/kde4/plugins", "/home/techrains/.kde/lib/kde4/", "/usr/lib/kde4/") 
+"Cannot connect to agent instance with identifier 'akonadi_maildir_resource_0', error message: 'Could not get owner of name 'org.freedesktop.Akonadi.Resource.akonadi_maildir_resource_0': no such name'"
+QDBusConnection: name 'org.freedesktop.Akonadi.Control' had owner '' but we thought it was ':1.19'
+QDBusConnection: name 'org.freedesktop.Akonadi.Control' had owner '' but we thought it was ':1.19'
+Hspell: can't open /usr/share/hspell/hebrew.wgz.sizes.
+Hspell: can't open /usr/share/hspell/hebrew.wgz.sizes.
+klauncher(1702) KConfigGroup::readXdgListEntry: List entry Keywords in "/usr/share/applications/firefox.desktop" is not compliant with XDG standard (missing trailing semicolon). 
+
+(process:2092): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+X Error: BadWindow (invalid Window parameter) 3
+  Major opcode: 2 (X_ChangeWindowAttributes)
+  Resource id:  0x1c00323
+X Error: BadWindow (invalid Window parameter) 3
+  Major opcode: 2 (X_ChangeWindowAttributes)
+  Resource id:  0x1c00347
+ list is empty 
+NOTE: child process received `Goodbye', closing down
+NOTE: child process received `Goodbye', closing down
+RemoveFilesRecursively: unlink dir: Directory not empty
+RemoveFilesRecursively: unlink dir: Directory not empty
+RemoveFilesRecursively: unlink dir: Directory not empty
+RemoveFilesRecursively: unlink dir: Directory not empty
+RemoveFilesRecursively: unlink dir: Directory not empty
+RemoveFilesRecursively: unlink dir: Directory not empty
+RemoveFilesRecursively: unlink dir: Directory not empty
+RemoveFilesRecursively: unlink dir: Directory not empty
+RemoveFilesRecursively: unlink dir: Directory not empty
+RemoveFilesRecursively: unlink dir: Directory not empty
+RemoveFilesRecursively: unlink dir: Directory not empty
+RemoveFilesRecursively: unlink dir: Directory not empty
+RemoveFilesRecursively: unlink dir: Directory not empty
+RemoveFilesRecursively: unlink dir: Directory not empty
+RemoveFilesRecursively: unlink dir: Directory not empty
+RemoveFilesRecursively: unlink dir: Directory not empty
+RemoveFilesRecursively: unlink dir: Directory not empty
+RemoveFilesRecursively: unlink dir: Directory not empty
+RemoveFilesRecursively: unlink dir: Directory not empty
+RemoveFilesRecursively: unlink dir: Directory not empty
+QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+
+(process:1867): GLib-GIO-WARNING **: Received property menu with type s does not match expected type o in the expected interface
+plasma-desktop(1867) MessageIndicator::adjustViewSize: No parentWidget for applet widget()! 
+plasma-desktop(1867) MessageIndicator::adjustViewSize: No parentWidget for applet widget()! 
+plasma-desktop(1867) MessageIndicator::adjustViewSize: No parentWidget for applet widget()! 
+plasma-desktop(1867) MessageIndicator::adjustViewSize: No parentWidget for applet widget()! 
+plasma-desktop(1867) MessageIndicator::adjustViewSize: No parentWidget for applet widget()! 
+plasma-desktop(1867) MessageIndicator::adjustViewSize: No parentWidget for applet widget()! 
+plasma-desktop(1867) MessageIndicator::adjustViewSize: No parentWidget for applet widget()! 
+plasma-desktop(1867) MessageIndicator::adjustViewSize: No parentWidget for applet widget()! 
+plasma-desktop(1867) MessageIndicator::adjustViewSize: No parentWidget for applet widget()! 
+plasma-desktop(1867) MessageIndicator::adjustViewSize: No parentWidget for applet widget()! 
+plasma-desktop(1867) MessageIndicator::adjustViewSize: No parentWidget for applet widget()! 
+plasma-desktop(1867) MessageIndicator::adjustViewSize: No parentWidget for applet widget()! 
+plasma-desktop(1867) MessageIndicator::adjustViewSize: No parentWidget for applet widget()! 
+X Error: BadWindow (invalid Window parameter) 3
+  Major opcode: 2 (X_ChangeWindowAttributes)
+  Resource id:  0x1c003c7
+X Error: BadWindow (invalid Window parameter) 3
+  Major opcode: 2 (X_ChangeWindowAttributes)
+  Resource id:  0x1c003f8
+dolphin(3065) KXMLGUI::ActionList::plug: Index  19  is not within range (0 -  11 
+"/org/freedesktop/UDisks2/drives/TSSTcorpDVD_ROM_TS_H353C_R60668BB347498" : property "Drive" does not exist 
+"/org/freedesktop/UDisks2/drives/ST3500413AS_6VMTA1MW" : property "Drive" does not exist 
+"/org/freedesktop/UDisks2/drives/ST3500413AS_6VMTA1MW" : property "DeviceNumber" does not exist 
+"/org/freedesktop/UDisks2/drives/ST3500413AS_6VMTA1MW" : property "Device" does not exist 
+QProcess: Destroyed while process is still running.
+klauncher(1702) KConfigGroup::readXdgListEntry: List entry Keywords in "/usr/share/applications/firefox.desktop" is not compliant with XDG standard (missing trailing semicolon). 
+
+(process:3200): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+X Error: BadWindow (invalid Window parameter) 3
+  Major opcode: 2 (X_ChangeWindowAttributes)
+  Resource id:  0x1c00557
+X Error: BadWindow (invalid Window parameter) 3
+  Major opcode: 2 (X_ChangeWindowAttributes)
+  Resource id:  0x1c0057d
+X Error: BadWindow (invalid Window parameter) 3
+  Major opcode: 2 (X_ChangeWindowAttributes)
+  Resource id:  0x1c007d5
+X Error: BadWindow (invalid Window parameter) 3
+  Major opcode: 2 (X_ChangeWindowAttributes)
+  Resource id:  0x1c008e0
+X Error: BadWindow (invalid Window parameter) 3
+  Major opcode: 2 (X_ChangeWindowAttributes)
+  Resource id:  0x1c00952
+X Error: BadWindow (invalid Window parameter) 3
+  Major opcode: 2 (X_ChangeWindowAttributes)
+  Resource id:  0x1c00976
+X Error: BadWindow (invalid Window parameter) 3
+  Major opcode: 2 (X_ChangeWindowAttributes)
+  Resource id:  0x1c009c0
+X Error: BadWindow (invalid Window parameter) 3
+  Major opcode: 2 (X_ChangeWindowAttributes)
+  Resource id:  0x1c00a0a
+X Error: BadWindow (invalid Window parameter) 3
+  Major opcode: 2 (X_ChangeWindowAttributes)
+  Resource id:  0x1c00a7c
+X Error: BadWindow (invalid Window parameter) 3
+  Major opcode: 2 (X_ChangeWindowAttributes)
+  Resource id:  0x1c00b60
+X Error: BadWindow (invalid Window parameter) 3
+  Major opcode: 2 (X_ChangeWindowAttributes)
+  Resource id:  0x1c00bac

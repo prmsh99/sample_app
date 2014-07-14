@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kcfg xmlns="http://www.kde.org/standards/kcfg/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+     xsi:schemaLocation="http://www.kde.org/standards/kcfg/1.0
+     http://www.kde.org/standards/kcfg/1.0/kcfg.xsd">
+    <kcfgfile name=""/>
+    <group name="General">
+        <entry name="normalColor" type="Color">
+            <label>Normal color</label>
+            <default>#808080</default>
+        </entry>
+        <entry name="overheatColor" type="String">
+            <label>Overheat color</label>
+            <default>#f00</default>
+        </entry>
+        <entry name="overheatLevel" type="string">
+            <label></label>
+            <default>80</default>
+        </entry>
+        <entry name="interval" type="string">
+            <label></label>
+            <default>1000</default>
+        </entry>
+        <entry name="font" type="string">
+            <label>TODO</label>
+            <default>Dejavu Sans</default>
+        </entry>
+        <entry name="fontSize" type="int">
+            <label>TODO</label>
+            <default>16</default>
+        </entry>
+        <entry name="fontBold" type="string">
+            <label>TODO</label>
+            <default>true</default>
+        </entry>
+        <entry name="fontItalic" type="string">
+            <label>TODO</label>
+            <default>false</default>
+        </entry>
+        <entry name="units" type="int">
+            <label>TODO</label>
+            <default>0</default>
+        </entry>
+        <entry name="displayUnitsSign" type="string">
+            <label>TODO</label>
+            <default>true</default>
+        </entry>
+    </group>
+</kcfg>

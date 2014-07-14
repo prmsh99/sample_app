@@ -1,0 +1,23 @@
+[$Version]
+update_info=konsole.upd:2.9.0-global-options
+
+[Favorite Profiles]
+Favorites=Shell.profile
+
+[KFileDialog Settings]
+Height 1080=540
+Recent Files[$e]=$HOME/print.pdf,$HOME/print.pdf
+Recent URLs[$e]=
+Width 1920=960
+
+[MainWindow]
+Height 1080=1081
+Height 768=769
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAQNAAAABAAAAAQAAAAIAAAACPwAAAAA
+ToolBarsMovable=Disabled
+Width 1024=1025
+Width 1920=1921
+
+[PrintOptions]
+PrinterFriendly=true
+ScaleOutput=true

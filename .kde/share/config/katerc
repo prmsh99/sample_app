@@ -1,0 +1,109 @@
+[$Version]
+update_info=kate-2.4.upd:kate2.4
+
+[Document 0]
+Highlighting=None
+Indentation Mode=normal
+Mode=
+URL=file:///home/techrains/Downloads/Qualificaations
+
+[Kate Plugins]
+katecloseexceptplugin=true
+katepateplugin=false
+
+[Kate Vi Input Mode Settings]
+Normal Mode Mappings Recursion=
+
+[Kate View Defaults]
+Vi Input Mode Emulate Command Bar=false
+Word Completion Remove Tail=true
+
+[MainWindow]
+Height 1080=1081
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAPvAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAAAAADGgAAAAAAAAAA
+Width 1920=1921
+
+[MainWindow0]
+Height 1080=1081
+Kate-MDI-H-Splitter=200,1891,200
+Kate-MDI-Sidebar-0-Splitter=0,0
+Kate-MDI-V-Splitter=150,980,200
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAPvAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAAAAADGgAAAAAAAAAA
+Width 1920=1921
+
+[MainWindow0 Settings]
+Height 1080=1081
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAPvAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAAAAADGgAAAAAAAAAA
+Width 1920=1921
+WindowState=10
+
+[MainWindow0-Splitter 0]
+Sizes=1891
+
+[MainWindow0-ViewSpace 0]
+Active View=file:///home/techrains/Downloads/Qualificaations
+View 0=file:///home/techrains/Downloads/Qualificaations
+
+[MainWindow0-ViewSpace 0 file:///home/techrains/Desktop/Qualificaations]
+CursorColumn=107
+CursorLine=30
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/techrains/Desktop/mail]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/techrains/Desktop/phone spec]
+CursorColumn=3
+CursorLine=21
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/techrains/Desktop/schema-v9/document.mwb.xml]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/techrains/Desktop/spec]
+CursorColumn=2
+CursorLine=16
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/techrains/Downloads/Qualificaations]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/techrains/Downloads/thunderbird/application.ini]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[Plugin:katecloseexceptplugin:menu]
+ShowConfirmation=true
+
+[Plugin:katesearchplugin:MainWindow:0:search-plugin]
+CurrentExcludeFilter=-1
+ExcludeFilters=
+ExpandSearchResults=false
+SearchDiskFiles=
+SearchDiskFiless=
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/thunderbird/application.ini
+File2[$e]=$HOME/Desktop/schema-v9/document.mwb.xml
+File3[$e]=$HOME/Desktop/spec
+File4[$e]=$HOME/Desktop/phone spec
+File5[$e]=$HOME/Downloads/Qualificaations
+Name1[$e]=application.ini
+Name2[$e]=document.mwb.xml
+Name3[$e]=spec
+Name4[$e]=phone spec
+Name5[$e]=Qualificaations

@@ -1,0 +1,233 @@
+v.0.11 :
+added Date information in notification;
+
+v.0.12 :
+fixed creating ~/.cache directory;
+
+v.0.13 :
+corrected fetch method for saving '\UNSEEN' flag of messages for IMAP4 accounts;
+
+v.0.15 :
+added show version;
+added enable\disable account without deleting from account list;
+
+v.0.17 :
+fixed deletion of your password when you edit your account;
+added support of custom imap4 mailbox;
+
+v.0.18 :
+added use default KDE wallet, automatic import the mail accounts from old wallet and removing it;
+
+v.0.19 :
+corrected the processing of the mail attributes;
+
+v.0.20 :
+fixed error of the apply Setting;
+
+v.0.23 :
+added the represent Date in current locale;
+added the autodetect Version in metadata.desktop;
+corrected the use "< >" in KDE-notification;
+
+v.0.23a :
+fixed IMAP4 authentificate error;
+
+v.0.26 :
+added colour controls of popup notification;
+corrected the method of mail attribute processing;
+ 
+v.0.28 :
+added Box field in KDE-notification about new mail;
+added the representation "&quot;" in fields;
+
+v.0.29 :
+corrected the representation "&quot;" in fields;
+
+v.0.50 :
+added Akonadi mail resources monitoring;
+
+v.0.51 :
+fixed Monitor updating;
+
+v.0.55 :
+added mail collector for Akonadi messages; 
+added settings for Group Akonadi events timeout; 
+added Akonadi account command line for mail notifications;
+
+v.0.57 :
+improved command line;
+added command line for simple POP3\IMAP4 accounts notification;
+
+v.0.58 :
+added viewing the EXAMPLES in Settings;
+
+v.0.59 :
+fixed the charset in randomString for more compatibility;
+
+v.1.0 :
+fixed the error in the absence of the module PyKDE4.Akonadi;
+Release accomplish;
+
+v.1.0.1 :
+some fixes;
+
+v.1.0.2 :
+fixed headers parsing method of Akonadi accounts Mail;
+
+v.1.0.3 :
+some fixes for header parsing;
+
+v.1.1.8 :
+added detect encoding for POP3 account headers;
+improved method of headers parsing for POP3 accounts;
+fixed getting headerCode for each mail;
+improved the defining of headers encoding;
+
+v.1.1.10 :
+improved encoding detect; 
+
+v.1.1.13 :
+some fixes;
+
+v.1.1.14 :
+some fixes;
+
+v.1.2.14 :
+added display count of unread messages for IMAP4;
+
+v.1.2.15 :
+data`s file count fixed;
+
+v.1.2.17 :
+fixed IndexError in main.py (s.762);
+improved Account Settings interface;
+
+v.1.3.18 :
+some improvements in Account Settings interface;
+
+v.1.5.20 :
+added FROM & SUBJ filter;
+added proxy settings;
+
+v.1.5.21 :
+fixed edit accounts;
+
+v.1.5.22 :
+fixed import AkonadiMod;
+
+v.1.5.25 :
+some fixes for more security;
+some fixes;
+
+v.1.7.29 :
+added IMAP4_IDLE mode;
+improved IDLE thread method;
+some fixes;
+
+v.1.7.30 :
+fixed display the count of new mail;
+
+v.1.7.35 :
+fixed display of accounts;
+
+v.1.7.36 :
+fixed the inconspicuous freeze of idle thread;
+
+v.1.7.37 :
+fixed displaying the templates in EditAccounts;
+
+v.1.7.38 :
+fixed UnicodeError in IdleMailing;
+
+v.1.7.39 :
+fixed AttributeError in MailFunc;
+
+v.1.7.40 :
+some improvements for IDLE-mode;
+some fixes for IMAP accounts;
+some fixes for IDLE-mode;
+
+v.1.8.45 :
+some improvements;
+added integrated mail viewer;
+
+v.1.8.47 :
+improvement for wait of change "icon-click" state;
+added detecting of ports;
+fixed initiation of the idleingStopped-signal,
+when idleMailingList is empty;
+added MailsInGroup Settings for display groups of mail in notification;
+
+v.1.8.48 :
+added displaying the multi-inserted "message/rfc822" in mailviewer;
+some improvements & fixes;
+added a active urls & email in QTextBrowser;
+improved ru-localization;
+fixed freez at idleStopping when Internet unavailable;
+
+v.1.10.50 :
+improved Settings interface;
+added Quick Answer&Forward mail;
+added the checking of complete the Settings changes;
+some improvements & fixes;
+Makefile corrected for new version;
+
+v.1.11.52 :
+added the useing socks-proxy for IMAP/IDLE-mode,
+Preview and Quick Answer|Forward;
+added setting timeout;
+some fixes & improvements;
+changed icons;
+
+v.1.11.54 :
+fixed freez at IMAP4 initiate exceptions;
+some fixes;
+
+v.1.11.55 :
+fixed freez in initiation;
+some fixes;
+
+v.1.12.55 :
+added feature to live enabling\disabling PyKDE4.akonadi module;
+
+v.1.12.56 :
+fixed the display of current account command in Receive Parameters;
+
+v.1.12.57 :
+some improvements;
+
+v.1.12.58 :
+some fixes & improvements;
+
+v.1.13.59 :
+fixed error in IdleMailing (v.1.12.58);
+added Reload Job in Viewer for failed mail;
+
+v.1.14.60 :
+some Setting Interface improvements;
+fixed initiate null-date for IMAP_IDLE mode;
+
+v.1.15.60 :
+fixed reload socks-proxy for new module version (1.00);
+fixed init Mailer for old mailer module version (0.7);
+
+v.1.15.62 :
+fixed Font&Color settings;
+some fixes & improvements;
+
+v.1.15.63 :
+some fixes & improvements;
+
+v.1.15.64 :
+improved: cut off the extra work when retrieving IMAP4 mail;
+
+v.1.15.66 :
+fixed the poll empty mailbox;
+added the check for new mail in IMAP/IDLE;
+
+v.1.15.67 :
+fixed the read of account's parameters (issue #10);
+
+v.1.15.68 :
+fixed getting the numbers of messages;
+some fixes for read  of account's parameters (issue #10);

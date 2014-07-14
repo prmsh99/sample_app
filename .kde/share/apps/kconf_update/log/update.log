@@ -1,0 +1,545 @@
+2014-06-23T11:18:07 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_update_49.upd' for new updates
+2014-06-23T11:18:07 kwin_update_49.upd: Found new update 'Kwin-4.9'
+2014-06-23T11:18:07 kwin_update_49.upd: Running script 'kwin_update_settings_49'
+2014-06-23T11:18:07 [Script] QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+2014-06-23T11:18:07 Checking update-file '/usr/share/kde4/apps/kconf_update/plasma-add-shortcut-to-menu.upd' for new updates
+2014-06-23T11:18:07 plasma-add-shortcut-to-menu.upd: Found new update '4.1LauncherShortcut'
+2014-06-23T11:18:07 plasma-add-shortcut-to-menu.upd:2:'Script=plasma-add-shortcut-to-menu-update': Script 'plasma-add-shortcut-to-menu-update' not found
+2014-06-23T11:18:07 Checking update-file '/usr/share/kde4/apps/kconf_update/adjustlevelstool.upd' for new updates
+2014-06-23T11:18:07 adjustlevelstool.upd: Found new update 'adjustlevels2.6.0'
+2014-06-23T11:18:07 Checking update-file '/usr/share/kde4/apps/kconf_update/kpgp.upd' for new updates
+2014-06-23T11:18:07 kpgp.upd: Found new update 'preKDE3_a'
+2014-06-23T11:18:07 kpgp.upd: File 'kpgprc' does not exist or empty, skipping
+2014-06-23T11:18:07 kpgp.upd: Found new update '3.1-1'
+2014-06-23T11:18:07 kpgp.upd: File 'kpgprc' does not exist or empty, skipping
+2014-06-23T11:18:07 Checking update-file '/usr/share/kde4/apps/kconf_update/kmail.upd' for new updates
+2014-06-23T11:18:07 kmail.upd: Found new update '1'
+2014-06-23T11:18:07 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-23T11:18:07 kmail.upd: Found new update '4'
+2014-06-23T11:18:07 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-23T11:18:07 kmail.upd: Found new update '5'
+2014-06-23T11:18:07 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-23T11:18:07 kmail.upd: File 'kpgprc' does not exist or empty, skipping
+2014-06-23T11:18:07 kmail.upd: Found new update '6'
+2014-06-23T11:18:07 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-23T11:18:07 kmail.upd: Found new update '7'
+2014-06-23T11:18:07 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-23T11:18:07 kmail.upd: Found new update '8'
+2014-06-23T11:18:07 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-23T11:18:07 kmail.upd: Found new update '9'
+2014-06-23T11:18:07 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-23T11:18:07 kmail.upd: Found new update '3.1-update-identities'
+2014-06-23T11:18:07 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-23T11:18:07 kmail.upd: Found new update '3.1-use-identity-uoids'
+2014-06-23T11:18:07 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-23T11:18:07 kmail.upd: Found new update '3.1-new-mail-notification'
+2014-06-23T11:18:07 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-23T11:18:07 kmail.upd: Found new update '3.2-update-loop-on-goto-unread-settings'
+2014-06-23T11:18:07 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-23T11:18:07 kmail.upd: Found new update '3.1.4-dont-use-UOID-0-for-any-identity'
+2014-06-23T11:18:07 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-23T11:18:07 kmail.upd: Found new update '3.2-misc'
+2014-06-23T11:18:07 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-23T11:18:07 kmail.upd: Found new update '3.2-moves'
+2014-06-23T11:18:07 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-23T11:18:07 kmail.upd: Found new update '3.3-use-ID-for-accounts'
+2014-06-23T11:18:07 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-23T11:18:07 kmail.upd: Found new update '3.3-update-filter-rules'
+2014-06-23T11:18:07 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-23T11:18:07 kmail.upd: Found new update '3.3-move-identities-to-own-file'
+2014-06-23T11:18:07 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-23T11:18:07 kmail.upd: Found new update '3.3-aegypten-kpgprc-to-kmailrc'
+2014-06-23T11:18:07 kmail.upd: File 'kpgprc' does not exist or empty, skipping
+2014-06-23T11:18:07 kmail.upd: Found new update '3.3-aegypten-kpgprc-to-libkleopatrarc'
+2014-06-23T11:18:07 kmail.upd: File 'kpgprc' does not exist or empty, skipping
+2014-06-23T11:18:07 kmail.upd: Found new update '3.3-aegypten-emailidentities-split-sign-encr-keys'
+2014-06-23T11:18:07 kmail.upd: File 'emailidentities' does not exist or empty, skipping
+2014-06-23T11:18:07 kmail.upd: Found new update '3.3-misc'
+2014-06-23T11:18:07 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-23T11:18:07 kmail.upd: Found new update '3.3b1-misc'
+2014-06-23T11:18:07 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-23T11:18:07 kmail.upd: Found new update '3.4'
+2014-06-23T11:18:07 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-23T11:18:07 kmail.upd: Found new update '3.4a'
+2014-06-23T11:18:07 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-23T11:18:07 kmail.upd: Found new update '3.4b'
+2014-06-23T11:18:07 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-23T11:18:07 kmail.upd: Found new update '3.4.1'
+2014-06-23T11:18:07 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-23T11:18:07 kmail.upd: Found new update '3.5.4'
+2014-06-23T11:18:07 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-23T11:18:07 kmail.upd: Found new update '3.5.7-imap-flag-migration'
+2014-06-23T11:18:07 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-23T11:18:07 kmail.upd: Found new update '4.0-misc'
+2014-06-23T11:18:07 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-23T11:18:07 kmail.upd: Found new update '4.2'
+2014-06-23T11:18:07 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-23T11:18:07 kmail.upd: Found new update '4.4-akonadi'
+2014-06-23T11:18:07 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-23T11:18:07 Checking update-file '/usr/share/kde4/apps/kconf_update/konsole_remove_background_mode.upd' for new updates
+2014-06-23T11:18:07 konsole_remove_background_mode.upd: Found new update '2.11.0-remove-background-mode'
+2014-06-23T11:18:07 Checking update-file '/usr/share/kde4/apps/kconf_update/krdb_libpathwipe.upd' for new updates
+2014-06-23T11:18:07 krdb_libpathwipe.upd: Found new update 'LibraryPathWipeOutKubuntu'
+2014-06-23T11:18:07 krdb_libpathwipe.upd: Running script 'krdb_clearlibrarypath'
+2014-06-23T11:18:08 Checking update-file '/usr/share/kde4/apps/kconf_update/kcookiescfg.upd' for new updates
+2014-06-23T11:18:08 kcookiescfg.upd: Found new update 'kde2.2/b1'
+2014-06-23T11:18:08 kcookiescfg.upd: Found new update 'kde3.1/cvs'
+2014-06-23T11:18:08 kcookiescfg.upd: Found new update 'kde4.10/git'
+2014-06-23T11:18:08 kcookiescfg.upd: Running script 'kcookiescfg.pl'
+2014-06-23T11:18:08 kcookiescfg.upd: Script removes kcookiejarrc:Cookie Policy:IgnoreExpirationDate
+2014-06-23T11:18:08 Checking update-file '/usr/share/kde4/apps/kconf_update/klipper-kconfigxt.upd' for new updates
+2014-06-23T11:18:08 klipper-kconfigxt.upd: Found new update 'KlipperNoSpacesInKeyNames'
+2014-06-23T11:18:08 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_remove_effects.upd' for new updates
+2014-06-23T11:18:08 kwin_remove_effects.upd: Found new update 'kwin4.7_effects'
+2014-06-23T11:18:08 Checking update-file '/usr/share/kde4/apps/kconf_update/plasmarc-to-plasmadesktoprc.upd' for new updates
+2014-06-23T11:18:08 plasmarc-to-plasmadesktoprc.upd: Found new update '4.3plasma-desktop'
+2014-06-23T11:18:08 plasmarc-to-plasmadesktoprc.upd: Running script 'plasma-to-plasma-desktop'
+2014-06-23T11:18:08 Checking update-file '/usr/share/kde4/apps/kconf_update/devicepreference.upd' for new updates
+2014-06-23T11:18:08 devicepreference.upd: Found new update 'DevicesMovedToPlatformPlugin'
+2014-06-23T11:18:08 devicepreference.upd: Running script 'phonon_devicepreference_update'
+2014-06-23T11:18:08 devicepreference.upd: Found new update 'DevicesUIDsChanged'
+2014-06-23T11:18:08 devicepreference.upd: Running script 'phonon_deviceuids_update'
+2014-06-23T11:18:08 Checking update-file '/usr/share/kde4/apps/kconf_update/ksmserver_shortcuts.upd' for new updates
+2014-06-23T11:18:08 ksmserver_shortcuts.upd: Found new update 'kde4.10'
+2014-06-23T11:18:08 ksmserver_shortcuts.upd: Found new update 'kde4.10-remove-group-kscreenlocker'
+2014-06-23T11:18:08 Checking update-file '/usr/share/kde4/apps/kconf_update/konsole.upd' for new updates
+2014-06-23T11:18:08 konsole.upd: Found new update '2.9.0-global-options'
+2014-06-23T11:18:08 konsole.upd: Running script 'konsole-2.9.0-global-options.sh'
+2014-06-23T11:18:08 konsole.upd: Found new update '2.9.0-colorscheme-bold-key'
+2014-06-23T11:18:08 konsole.upd: Running script 'konsole-2.9.0-colorscheme-bold-key.sh'
+2014-06-23T11:18:08 konsole.upd: Found new update '2.10.0-remove-menuindex-from-profiles'
+2014-06-23T11:18:08 konsole.upd: Running script 'konsole-2.10.0-remove-menuindex-from-profiles.sh'
+2014-06-23T11:18:08 Checking update-file '/usr/share/kde4/apps/kconf_update/mailfilteragent.upd' for new updates
+2014-06-23T11:18:08 mailfilteragent.upd: Found new update 'initial-mailfilteragent-migration'
+2014-06-23T11:18:08 mailfilteragent.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-23T11:18:08 Checking update-file '/usr/share/kde4/apps/kconf_update/kio_help.upd' for new updates
+2014-06-23T11:18:08 kio_help.upd: Found new update 'kde3_2'
+2014-06-23T11:18:08 kio_help.upd: Running script 'move_kio_help_cache.sh'
+2014-06-23T11:18:08 [Script] mv: cannot stat ‘/home/techrains/.kde/share/apps/kio_help/cache’: No such file or directory
+2014-06-23T11:18:08 [Script] rmdir: failed to remove ‘/home/techrains/.kde/share/apps/kio_help’: No such file or directory
+2014-06-23T11:18:08 Checking update-file '/usr/share/kde4/apps/kconf_update/mailtransports.upd' for new updates
+2014-06-23T11:18:08 mailtransports.upd: Found new update 'initial-kmail-migration'
+2014-06-23T11:18:08 mailtransports.upd: Running script 'migrate-transports.pl' with arguments 'kmail'
+2014-06-23T11:18:08 mailtransports.upd: Found new update 'initial-knode-migration'
+2014-06-23T11:18:08 mailtransports.upd: File 'knoderc' does not exist or empty, skipping
+2014-06-23T11:18:08 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_remove_delay_focus.upd' for new updates
+2014-06-23T11:18:08 kwin_remove_delay_focus.upd: Found new update 'Kwin-4.8'
+2014-06-23T11:18:08 kwin_remove_delay_focus.upd: Running script 'kwin_remove_delay_focus.sh'
+2014-06-23T11:18:08 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_fsp_workarounds_1.upd' for new updates
+2014-06-23T11:18:08 kwin_fsp_workarounds_1.upd: Found new update 'kde351'
+2014-06-23T11:18:08 kwin_fsp_workarounds_1.upd: Running script 'kwin_update_default_rules' with arguments 'fsp_workarounds_1.kwinrules'
+2014-06-23T11:18:08 [Script] QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+2014-06-23T11:18:08 Checking update-file '/usr/share/kde4/apps/kconf_update/kded.upd' for new updates
+2014-06-23T11:18:08 kded.upd: Found new update 'kde3.0'
+2014-06-23T11:18:08 kded.upd: Skipping update 'kde3.0'
+2014-06-23T11:18:08 kded.upd: File 'kdedrc' does not exist or empty, skipping
+2014-06-23T11:18:08 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_translate_activity_rule.upd' for new updates
+2014-06-23T11:18:08 kwin_translate_activity_rule.upd: Found new update 'Kwin-4.10'
+2014-06-23T11:18:08 kwin_translate_activity_rule.upd: Running script 'kwin_translate_activity_rule.sh'
+2014-06-23T11:18:08 Checking update-file '/usr/share/kde4/apps/kconf_update/kscreenlocker_locksession-shortcut.upd' for new updates
+2014-06-23T11:18:08 kscreenlocker_locksession-shortcut.upd: Found new update '4.9-locksession-shortcut'
+2014-06-23T11:18:08 kscreenlocker_locksession-shortcut.upd: Running script 'force_krunner_lock_shortcut_unreg'
+2014-06-23T11:18:08 [Script] QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+2014-06-23T11:18:08 Checking update-file '/usr/share/kde4/apps/kconf_update/ksslcertificatemanager.upd' for new updates
+2014-06-23T11:18:08 ksslcertificatemanager.upd: Found new update 'kde4.2'
+2014-06-23T11:18:08 ksslcertificatemanager.upd: Running script 'ksslcertificatemanager.upd.sh'
+2014-06-23T11:18:08 [Script] rm: cannot remove ‘/home/techrains/.kde//share/config/ksslcertificatemanager’: No such file or directory
+2014-06-23T11:18:08 ksslcertificatemanager.upd: !! An error occurred while running 'sh /usr/share/kde4/apps/kconf_update/ksslcertificatemanager.upd.sh'
+2014-06-23T11:18:08 Checking update-file '/usr/share/kde4/apps/kconf_update/newmailnotifier.upd' for new updates
+2014-06-23T11:18:08 newmailnotifier.upd: Found new update 'initial-newmailnotifier-migration'
+2014-06-23T11:18:08 newmailnotifier.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-23T11:18:08 Checking update-file '/usr/share/kde4/apps/kconf_update/amarok.upd' for new updates
+2014-06-23T11:18:08 amarok.upd: Found new update '1'
+2014-06-23T11:18:08 amarok.upd: Running script 'amarok-2.4.1-tokens_syntax_update.pl'
+2014-06-23T11:18:08 Checking update-file '/usr/share/kde4/apps/kconf_update/drkonqi-rename-config-section.upd' for new updates
+2014-06-23T11:18:08 drkonqi-rename-config-section.upd: Found new update 'kde-4.11'
+2014-06-23T11:18:08 drkonqi-rename-config-section.upd: File 'drkonqirc' does not exist or empty, skipping
+2014-06-23T11:18:08 Checking update-file '/usr/share/kde4/apps/kconf_update/okular.upd' for new updates
+2014-06-23T11:18:08 okular.upd: Found new update 'sep_settings'
+2014-06-23T11:18:08 okular.upd: Updating okularpartrc:Core General:ObeyDRM to 'false'
+2014-06-23T11:18:08 okular.upd: Removing okularpartrc:General:ObeyDRM, moved.
+2014-06-23T11:18:09 Checking update-file '/usr/share/kde4/apps/kconf_update/notifications-to-orgkdenotifications.upd' for new updates
+2014-06-23T11:18:09 notifications-to-orgkdenotifications.upd: Found new update '4.10QmlNotifications'
+2014-06-23T11:18:09 notifications-to-orgkdenotifications.upd: Running script 'notifications-to-orgkdenotifications'
+2014-06-23T11:18:09 Checking update-file '/usr/share/kde4/apps/kconf_update/kate-2.4.upd' for new updates
+2014-06-23T11:18:09 kate-2.4.upd: Found new update 'kate2.4'
+2014-06-23T11:18:09 kate-2.4.upd: Skipping update 'kate2.4'
+2014-06-23T11:18:09 Checking update-file '/usr/share/kde4/apps/kconf_update/korganizer.upd' for new updates
+2014-06-23T11:18:09 korganizer.upd: Found new update 'korganizer_3.4_GroupwareCleanup'
+2014-06-23T11:18:09 korganizer.upd: File 'korganizerrc' does not exist or empty, skipping
+2014-06-23T11:18:09 korganizer.upd: Found new update 'korganizer_3.4_WebExport'
+2014-06-23T11:18:09 korganizer.upd: File 'korganizerrc' does not exist or empty, skipping
+2014-06-23T11:18:09 korganizer.upd: Found new update 'korganizer_3.4_FilterAction'
+2014-06-23T11:18:09 korganizer.upd: File 'korganizerrc' does not exist or empty, skipping
+2014-06-23T11:18:09 korganizer.upd: Found new update 'korganizer_3.4_HolidayPlugin'
+2014-06-23T11:18:09 korganizer.upd: File 'korganizerrc' does not exist or empty, skipping
+2014-06-23T11:18:09 korganizer.upd: Found new update 'korganizer_4.3_ShowTodos'
+2014-06-23T11:18:09 korganizer.upd: File 'korganizerrc' does not exist or empty, skipping
+2014-06-23T11:18:09 korganizer.upd: Found new update 'korganizer_4.4_MoveFreeBusy'
+2014-06-23T11:18:09 korganizer.upd: File 'korganizerrc' does not exist or empty, skipping
+2014-06-23T11:18:09 Checking update-file '/usr/share/kde4/apps/kconf_update/kuriikwsfilter.upd' for new updates
+2014-06-23T11:18:09 kuriikwsfilter.upd: Found new update 'post-kde3.1/cvs'
+2014-06-23T11:18:09 kuriikwsfilter.upd: Skipping kuriikwsfilterrc:General:DefaultSearchEngine, already exists.
+2014-06-23T11:18:09 kuriikwsfilter.upd: Found new update 'pre-kde4.9'
+2014-06-23T11:18:09 kuriikwsfilter.upd: Updating kuriikwsfilterrc:General:DefaultWebShortcut to 'google_kubuntu'
+2014-06-23T11:18:09 kuriikwsfilter.upd: Removing kuriikwsfilterrc:General:DefaultSearchEngine, moved.
+2014-06-23T11:18:09 kuriikwsfilter.upd: Updating kuriikwsfilterrc:General:PreferredWebShortcuts to 'dmoz,google_groups,google_kubuntu,google_news,webster,wikipedia'
+2014-06-23T11:18:09 kuriikwsfilter.upd: Removing kuriikwsfilterrc:General:FavoriteSearchEngines, moved.
+2014-06-23T11:18:09 Checking update-file '/usr/share/kde4/apps/kconf_update/kcalcrc.upd' for new updates
+2014-06-23T11:18:09 kcalcrc.upd: Found new update 'KDE_3_2_0'
+2014-06-23T11:18:09 kcalcrc.upd: File 'kcalcrc' does not exist or empty, skipping
+2014-06-23T11:18:09 kcalcrc.upd: Found new update 'KDE_4_3_0'
+2014-06-23T11:18:09 kcalcrc.upd: File 'kcalcrc' does not exist or empty, skipping
+2014-06-23T11:18:09 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_translate_confrequest_rule.upd' for new updates
+2014-06-23T11:18:09 kwin_translate_confrequest_rule.upd: Found new update 'Kwin-4.11'
+2014-06-23T11:18:09 kwin_translate_confrequest_rule.upd: Running script 'kwin_translate_confrequest_rule.sh'
+2014-06-23T11:18:09 Checking update-file '/usr/share/kde4/apps/kconf_update/kioslave.upd' for new updates
+2014-06-23T11:18:09 kioslave.upd: Found new update 'kde2.2/r1'
+2014-06-23T11:18:09 kioslave.upd: File 'kioslaverc' does not exist or empty, skipping
+2014-06-23T11:18:09 kioslave.upd: Skipping update 'kde2.2/r1'
+2014-06-23T11:18:09 kioslave.upd: File 'kioslaverc' does not exist or empty, skipping
+2014-06-23T11:18:09 kioslave.upd: Found new update 'kde2.2/r2'
+2014-06-23T11:18:09 kioslave.upd: File 'kioslaverc' does not exist or empty, skipping
+2014-06-23T11:18:09 kioslave.upd: Found new update 'kde2.2/r3'
+2014-06-23T11:18:09 kioslave.upd: File 'kioslaverc' does not exist or empty, skipping
+2014-06-23T11:18:09 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_update_tabbox_qml_settings.upd' for new updates
+2014-06-23T11:18:09 kwin_update_tabbox_qml_settings.upd: Found new update 'Kwin-4.8'
+2014-06-23T11:18:09 kwin_update_tabbox_qml_settings.upd: Running script 'kwin_update_tabbox_qml_settings'
+2014-06-23T11:18:09 [Script] QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+2014-06-23T11:18:09 Checking update-file '/usr/share/kde4/apps/kconf_update/konversation.upd' for new updates
+2014-06-23T11:18:09 konversation.upd: Found new update '1.1-rememberline'
+2014-06-23T11:18:09 konversation.upd: Found new update '1.1-markerlines'
+2014-06-23T11:18:09 konversation.upd: Found new update '0.20-customfonts'
+2014-06-23T11:18:09 konversation.upd: Running script 'konversation-0.20-customfonts.pl'
+2014-06-23T11:18:09 konversation.upd: Found new update '0.20-quickbuttons'
+2014-06-23T11:18:09 konversation.upd: Running script 'konversation-0.20-quickbuttons.pl'
+2014-06-23T11:18:09 konversation.upd: Script removes konversationrc:Button List:Button0
+2014-06-23T11:18:09 konversation.upd: Script removes konversationrc:Button List:Button1
+2014-06-23T11:18:09 konversation.upd: Script removes konversationrc:Button List:Button2
+2014-06-23T11:18:09 konversation.upd: Script removes konversationrc:Button List:Button3
+2014-06-23T11:18:09 konversation.upd: Script removes konversationrc:Button List:Button4
+2014-06-23T11:18:09 konversation.upd: Script removes konversationrc:Button List:Button5
+2014-06-23T11:18:09 konversation.upd: Script removes konversationrc:Button List:Button6
+2014-06-23T11:18:09 konversation.upd: Script removes konversationrc:Button List:Button7
+2014-06-23T11:18:09 konversation.upd: Found new update '0.19-notifylists'
+2014-06-23T11:18:09 konversation.upd: Running script 'konversation-0.19-notifylists.pl'
+2014-06-23T11:18:09 konversation.upd: Found new update '0.19-appearance'
+2014-06-23T11:18:09 konversation.upd: Running script 'konversation-0.19-appearance.pl'
+2014-06-23T11:18:09 konversation.upd: Running script 'konversation-0.19-colorcodes.pl'
+2014-06-23T11:18:09 konversation.upd: Found new update '0.19-browser'
+2014-06-23T11:18:09 konversation.upd: Running script 'konversation-0.19-custombrowser.pl'
+2014-06-23T11:18:09 konversation.upd: Found new update '0.19-flags'
+2014-06-23T11:18:09 konversation.upd: Running script 'konversation-0.19-tabplacement.pl'
+2014-06-23T11:18:09 konversation.upd: Found new update '0.19-highlightcolors'
+2014-06-23T11:18:09 konversation.upd: Running script 'konversation-0.19-colors.pl'
+2014-06-23T11:18:09 konversation.upd: Found new update '0.19-osdcolors'
+2014-06-23T11:18:09 konversation.upd: Running script 'konversation-0.19-colors.pl'
+2014-06-23T11:18:09 konversation.upd: Found new update '0.19-sortorder'
+2014-06-23T11:18:09 konversation.upd: Running script 'konversation-0.19-sortorder.pl'
+2014-06-23T11:18:09 konversation.upd: Found new update '0.19-colors'
+2014-06-23T11:18:09 konversation.upd: Running script 'konversation-0.19-colors.pl'
+2014-06-23T11:18:09 konversation.upd: Found new update '0.19-generaloptions'
+2014-06-23T11:18:09 konversation.upd: Found new update '0.19-cleanup-themes'
+2014-06-23T11:18:09 konversation.upd: Found new update '0.19-cleanup-notifylist'
+2014-06-23T11:18:09 konversation.upd: Found new update '0.19-cleanup-dcc'
+2014-06-23T11:18:09 konversation.upd: Found new update '0.19-cleanup-colors'
+2014-06-23T11:18:09 konversation.upd: Found new update '0.19-cleanup-hilightlist'
+2014-06-23T11:18:09 konversation.upd: Found new update '0.19-cleanup-notificationmessages'
+2014-06-23T11:18:09 konversation.upd: Found new update '0.19-cleanup-ledcolors'
+2014-06-23T11:18:09 konversation.upd: Found new update '0.19-cleanup-kmditaskbar'
+2014-06-23T11:18:09 konversation.upd: Found new update '0.19-channelsplitter'
+2014-06-23T11:18:09 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_update_410.upd' for new updates
+2014-06-23T11:18:09 kwin_update_410.upd: Found new update 'Kwin-4.10_1'
+2014-06-23T11:18:09 kwin_update_410.upd: Running script 'kwin_update_settings_410'
+2014-06-23T11:18:09 [Script] QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+2014-06-23T11:18:09 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_update_411.upd' for new updates
+2014-06-23T11:18:09 kwin_update_411.upd: Found new update 'Kwin-4.11_0'
+2014-06-23T11:18:09 kwin_update_411.upd: Running script 'kwin_update_settings_411'
+2014-06-23T11:18:09 Checking update-file '/usr/share/kde4/apps/kconf_update/oxygen.upd' for new updates
+2014-06-23T11:18:09 oxygen.upd: Found new update '1'
+2014-06-23T11:18:09 oxygen.upd: Running script 'update_oxygen.pl'
+2014-06-23T11:18:09 Checking update-file '/usr/share/kde4/apps/kconf_update/plasma-to-plasmadesktop-shortcuts.upd' for new updates
+2014-06-23T11:18:09 plasma-to-plasmadesktop-shortcuts.upd: Found new update '4.3plasma-desktop-shortcuts'
+2014-06-23T11:18:09 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_update_tabbox_settings.upd' for new updates
+2014-06-23T11:18:09 kwin_update_tabbox_settings.upd: Found new update 'Kwin-4.4'
+2014-06-23T11:18:09 kwin_update_tabbox_settings.upd: Running script 'kwin_update_tabbox_settings'
+2014-06-23T11:18:09 [Script] QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+2014-06-27T10:18:38 Checking update-file '/usr/share/kde4/apps/kconf_update/kmail.upd' for new updates
+2014-06-27T10:18:38 kmail.upd: Checking update '1'
+2014-06-27T10:18:38 kmail.upd: Skipping update '1'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '4'
+2014-06-27T10:18:38 kmail.upd: Skipping update '4'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '5'
+2014-06-27T10:18:38 kmail.upd: Skipping update '5'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '6'
+2014-06-27T10:18:38 kmail.upd: Skipping update '6'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '7'
+2014-06-27T10:18:38 kmail.upd: Skipping update '7'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '8'
+2014-06-27T10:18:38 kmail.upd: Skipping update '8'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '9'
+2014-06-27T10:18:38 kmail.upd: Skipping update '9'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '3.1-update-identities'
+2014-06-27T10:18:38 kmail.upd: Skipping update '3.1-update-identities'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '3.1-use-identity-uoids'
+2014-06-27T10:18:38 kmail.upd: Skipping update '3.1-use-identity-uoids'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '3.1-new-mail-notification'
+2014-06-27T10:18:38 kmail.upd: Skipping update '3.1-new-mail-notification'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '3.2-update-loop-on-goto-unread-settings'
+2014-06-27T10:18:38 kmail.upd: Skipping update '3.2-update-loop-on-goto-unread-settings'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '3.1.4-dont-use-UOID-0-for-any-identity'
+2014-06-27T10:18:38 kmail.upd: Skipping update '3.1.4-dont-use-UOID-0-for-any-identity'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '3.2-misc'
+2014-06-27T10:18:38 kmail.upd: Skipping update '3.2-misc'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '3.2-moves'
+2014-06-27T10:18:38 kmail.upd: Skipping update '3.2-moves'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '3.3-use-ID-for-accounts'
+2014-06-27T10:18:38 kmail.upd: Skipping update '3.3-use-ID-for-accounts'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '3.3-update-filter-rules'
+2014-06-27T10:18:38 kmail.upd: Skipping update '3.3-update-filter-rules'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '3.3-move-identities-to-own-file'
+2014-06-27T10:18:38 kmail.upd: Skipping update '3.3-move-identities-to-own-file'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '3.3-aegypten-kpgprc-to-kmailrc'
+2014-06-27T10:18:38 kmail.upd: Skipping update '3.3-aegypten-kpgprc-to-kmailrc'
+2014-06-27T10:18:38 kmail.upd: File 'kpgprc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '3.3-aegypten-kpgprc-to-libkleopatrarc'
+2014-06-27T10:18:38 kmail.upd: Skipping update '3.3-aegypten-kpgprc-to-libkleopatrarc'
+2014-06-27T10:18:38 kmail.upd: File 'kpgprc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '3.3-aegypten-emailidentities-split-sign-encr-keys'
+2014-06-27T10:18:38 kmail.upd: Skipping update '3.3-aegypten-emailidentities-split-sign-encr-keys'
+2014-06-27T10:18:38 kmail.upd: Checking update '3.3-misc'
+2014-06-27T10:18:38 kmail.upd: Skipping update '3.3-misc'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '3.3b1-misc'
+2014-06-27T10:18:38 kmail.upd: Skipping update '3.3b1-misc'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '3.4'
+2014-06-27T10:18:38 kmail.upd: Skipping update '3.4'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '3.4a'
+2014-06-27T10:18:38 kmail.upd: Skipping update '3.4a'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '3.4b'
+2014-06-27T10:18:38 kmail.upd: Skipping update '3.4b'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '3.4.1'
+2014-06-27T10:18:38 kmail.upd: Skipping update '3.4.1'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '3.5.4'
+2014-06-27T10:18:38 kmail.upd: Skipping update '3.5.4'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '3.5.7-imap-flag-migration'
+2014-06-27T10:18:38 kmail.upd: Skipping update '3.5.7-imap-flag-migration'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '4.0-misc'
+2014-06-27T10:18:38 kmail.upd: Skipping update '4.0-misc'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '4.2'
+2014-06-27T10:18:38 kmail.upd: Skipping update '4.2'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '4.4-akonadi'
+2014-06-27T10:18:38 kmail.upd: Skipping update '4.4-akonadi'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 Checking update-file '/usr/share/kde4/apps/kconf_update/kmail.upd' for new updates
+2014-06-27T10:18:38 kmail.upd: Checking update '1'
+2014-06-27T10:18:38 kmail.upd: Skipping update '1'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '4'
+2014-06-27T10:18:38 kmail.upd: Skipping update '4'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '5'
+2014-06-27T10:18:38 kmail.upd: Skipping update '5'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '6'
+2014-06-27T10:18:38 kmail.upd: Skipping update '6'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '7'
+2014-06-27T10:18:38 kmail.upd: Skipping update '7'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '8'
+2014-06-27T10:18:38 kmail.upd: Skipping update '8'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '9'
+2014-06-27T10:18:38 kmail.upd: Skipping update '9'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '3.1-update-identities'
+2014-06-27T10:18:38 kmail.upd: Skipping update '3.1-update-identities'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '3.1-use-identity-uoids'
+2014-06-27T10:18:38 kmail.upd: Skipping update '3.1-use-identity-uoids'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '3.1-new-mail-notification'
+2014-06-27T10:18:38 kmail.upd: Skipping update '3.1-new-mail-notification'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '3.2-update-loop-on-goto-unread-settings'
+2014-06-27T10:18:38 kmail.upd: Skipping update '3.2-update-loop-on-goto-unread-settings'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '3.1.4-dont-use-UOID-0-for-any-identity'
+2014-06-27T10:18:38 kmail.upd: Skipping update '3.1.4-dont-use-UOID-0-for-any-identity'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '3.2-misc'
+2014-06-27T10:18:38 kmail.upd: Skipping update '3.2-misc'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '3.2-moves'
+2014-06-27T10:18:38 kmail.upd: Skipping update '3.2-moves'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '3.3-use-ID-for-accounts'
+2014-06-27T10:18:38 kmail.upd: Skipping update '3.3-use-ID-for-accounts'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '3.3-update-filter-rules'
+2014-06-27T10:18:38 kmail.upd: Skipping update '3.3-update-filter-rules'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '3.3-move-identities-to-own-file'
+2014-06-27T10:18:38 kmail.upd: Skipping update '3.3-move-identities-to-own-file'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '3.3-aegypten-kpgprc-to-kmailrc'
+2014-06-27T10:18:38 kmail.upd: Skipping update '3.3-aegypten-kpgprc-to-kmailrc'
+2014-06-27T10:18:38 kmail.upd: File 'kpgprc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '3.3-aegypten-kpgprc-to-libkleopatrarc'
+2014-06-27T10:18:38 kmail.upd: Skipping update '3.3-aegypten-kpgprc-to-libkleopatrarc'
+2014-06-27T10:18:38 kmail.upd: File 'kpgprc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '3.3-aegypten-emailidentities-split-sign-encr-keys'
+2014-06-27T10:18:38 kmail.upd: Skipping update '3.3-aegypten-emailidentities-split-sign-encr-keys'
+2014-06-27T10:18:38 kmail.upd: Checking update '3.3-misc'
+2014-06-27T10:18:38 kmail.upd: Skipping update '3.3-misc'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '3.3b1-misc'
+2014-06-27T10:18:38 kmail.upd: Skipping update '3.3b1-misc'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '3.4'
+2014-06-27T10:18:38 kmail.upd: Skipping update '3.4'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '3.4a'
+2014-06-27T10:18:38 kmail.upd: Skipping update '3.4a'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '3.4b'
+2014-06-27T10:18:38 kmail.upd: Skipping update '3.4b'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '3.4.1'
+2014-06-27T10:18:38 kmail.upd: Skipping update '3.4.1'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '3.5.4'
+2014-06-27T10:18:38 kmail.upd: Skipping update '3.5.4'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '3.5.7-imap-flag-migration'
+2014-06-27T10:18:38 kmail.upd: Skipping update '3.5.7-imap-flag-migration'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '4.0-misc'
+2014-06-27T10:18:38 kmail.upd: Skipping update '4.0-misc'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '4.2'
+2014-06-27T10:18:38 kmail.upd: Skipping update '4.2'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '4.4-akonadi'
+2014-06-27T10:18:38 kmail.upd: Skipping update '4.4-akonadi'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 Checking update-file '/usr/share/kde4/apps/kconf_update/kmail.upd' for new updates
+2014-06-27T10:18:38 kmail.upd: Checking update '1'
+2014-06-27T10:18:38 kmail.upd: Skipping update '1'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '4'
+2014-06-27T10:18:38 kmail.upd: Skipping update '4'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '5'
+2014-06-27T10:18:38 kmail.upd: Skipping update '5'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '6'
+2014-06-27T10:18:38 kmail.upd: Skipping update '6'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '7'
+2014-06-27T10:18:38 kmail.upd: Skipping update '7'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '8'
+2014-06-27T10:18:38 kmail.upd: Skipping update '8'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '9'
+2014-06-27T10:18:38 kmail.upd: Skipping update '9'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '3.1-update-identities'
+2014-06-27T10:18:38 kmail.upd: Skipping update '3.1-update-identities'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '3.1-use-identity-uoids'
+2014-06-27T10:18:38 kmail.upd: Skipping update '3.1-use-identity-uoids'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '3.1-new-mail-notification'
+2014-06-27T10:18:38 kmail.upd: Skipping update '3.1-new-mail-notification'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '3.2-update-loop-on-goto-unread-settings'
+2014-06-27T10:18:38 kmail.upd: Skipping update '3.2-update-loop-on-goto-unread-settings'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '3.1.4-dont-use-UOID-0-for-any-identity'
+2014-06-27T10:18:38 kmail.upd: Skipping update '3.1.4-dont-use-UOID-0-for-any-identity'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '3.2-misc'
+2014-06-27T10:18:38 kmail.upd: Skipping update '3.2-misc'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '3.2-moves'
+2014-06-27T10:18:38 kmail.upd: Skipping update '3.2-moves'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '3.3-use-ID-for-accounts'
+2014-06-27T10:18:38 kmail.upd: Skipping update '3.3-use-ID-for-accounts'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '3.3-update-filter-rules'
+2014-06-27T10:18:38 kmail.upd: Skipping update '3.3-update-filter-rules'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '3.3-move-identities-to-own-file'
+2014-06-27T10:18:38 kmail.upd: Skipping update '3.3-move-identities-to-own-file'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '3.3-aegypten-kpgprc-to-kmailrc'
+2014-06-27T10:18:38 kmail.upd: Skipping update '3.3-aegypten-kpgprc-to-kmailrc'
+2014-06-27T10:18:38 kmail.upd: File 'kpgprc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '3.3-aegypten-kpgprc-to-libkleopatrarc'
+2014-06-27T10:18:38 kmail.upd: Skipping update '3.3-aegypten-kpgprc-to-libkleopatrarc'
+2014-06-27T10:18:38 kmail.upd: File 'kpgprc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '3.3-aegypten-emailidentities-split-sign-encr-keys'
+2014-06-27T10:18:38 kmail.upd: Skipping update '3.3-aegypten-emailidentities-split-sign-encr-keys'
+2014-06-27T10:18:38 kmail.upd: Checking update '3.3-misc'
+2014-06-27T10:18:38 kmail.upd: Skipping update '3.3-misc'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '3.3b1-misc'
+2014-06-27T10:18:38 kmail.upd: Skipping update '3.3b1-misc'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '3.4'
+2014-06-27T10:18:38 kmail.upd: Skipping update '3.4'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '3.4a'
+2014-06-27T10:18:38 kmail.upd: Skipping update '3.4a'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '3.4b'
+2014-06-27T10:18:38 kmail.upd: Skipping update '3.4b'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '3.4.1'
+2014-06-27T10:18:38 kmail.upd: Skipping update '3.4.1'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '3.5.4'
+2014-06-27T10:18:38 kmail.upd: Skipping update '3.5.4'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '3.5.7-imap-flag-migration'
+2014-06-27T10:18:38 kmail.upd: Skipping update '3.5.7-imap-flag-migration'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '4.0-misc'
+2014-06-27T10:18:38 kmail.upd: Skipping update '4.0-misc'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '4.2'
+2014-06-27T10:18:38 kmail.upd: Skipping update '4.2'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping
+2014-06-27T10:18:38 kmail.upd: Checking update '4.4-akonadi'
+2014-06-27T10:18:38 kmail.upd: Skipping update '4.4-akonadi'
+2014-06-27T10:18:38 kmail.upd: File 'kmail2rc' does not exist or empty, skipping

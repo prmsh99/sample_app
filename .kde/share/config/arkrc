@@ -1,0 +1,16 @@
+[MainWindow]
+State=AAAA/wAAAAD9AAAAAAAAAoAAAAGRAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+splitterSizes=425,212
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/thunderbird-24.6.0.tar.bz2
+File2[$e]=$HOME/Desktop/schema-v9.mwb
+File3[$e]=$HOME/Desktop/Schema for PostgreSQL migration/schema-v1.mwb
+Name1[$e]=thunderbird-24.6.0.tar.bz2
+Name2[$e]=schema-v9.mwb
+Name3[$e]=schema-v1.mwb
+
+[Viewer]
+Height 768=400
+Width 1024=560

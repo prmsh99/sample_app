@@ -1,0 +1,22 @@
+[Desktop Entry]
+Comment=Minimalistic clock plasmoid is a fork of "Minimal Clock" plasmoid (http://kde-apps.org/content/show.php/Minimal%20Clock?content=156715)
+Encoding=UTF-8
+Icon=clock
+Keywords=
+Name=Minimalistic Clock
+Type=Service
+X-KDE-ParentApp=
+X-KDE-PluginInfo-Author=Victor Polevoy (FX)
+X-KDE-PluginInfo-Category=Date and Time
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-Email=vityatheboss@gmail.com
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-Name=minimalisticclockfx
+X-KDE-PluginInfo-Version=1.04
+X-KDE-PluginInfo-Website=https://github.com/vityafx
+X-KDE-ServiceTypes=Plasma/Applet,Plasma/PopupApplet
+X-Plasma-API=declarativeappletscript
+X-Plasma-DefaultSize=160,260
+X-Plasma-MainScript=ui/main.qml
+X-Plasma-RemoteLocation=

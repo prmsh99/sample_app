@@ -1,0 +1,12 @@
+[General]
+PassiveResourceKeys=
+ResourceKeys=Webcs84vJM
+Standard=Webcs84vJM
+
+[Resource_Webcs84vJM]
+FileFormat=vcard
+ResourceIdentifier=Webcs84vJM
+ResourceIsActive=true
+ResourceIsReadOnly=false
+ResourceName=Default Address Book
+ResourceType=file
